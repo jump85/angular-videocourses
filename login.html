@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<title>Login Page</title>
+		<link rel="stylesheet" href="styles/bootstrap.min.css" />
+		<link rel="stylesheet" href="styles/login.css" />
+    </head>
+
+
+    <body>
+    	<header id="eq_servizi">
+			<div id="eq_social">
+				
+			</div>
+		</header>
+		
+    <div class="container">
+    	<div id="eq_logo">
+			<a href="http://www.gruppoequitalia.it" class="url">WWW.GRUPPOEQUITALIA.IT</a>
+			<div class="searchBox right">
+				<!--
+				<input class=" watermark" title="Cerca nella rubrica"></input>
+				<img class="button" src="img/search.png">
+				-->
+			</div>
+		</div>
+		<!--Header -->
+		<div id="eq_header" style="position:relative; overflow:hidden;">
+			<div class="maschera">
+				<div class="content">
+					<div class="comboBox" style="position:relative; height:23px; line-height:22px; top:50px;">
+					</div>
+				</div>
+			</div>
+		</div>
+		
+
+    	<ol class="breadcrumb">
+			<li  class="active">
+				Home
+			</li>
+			<li class="active">
+				Login
+			</li>
+		</ol>
+
+		
+		<div class="row bgWhite content">
+			<div class="col-sm-3"></div>
+			<div class="col-sm-7">
+			<form id="login-form" name="loginForm">
+				<div class="col-sm-8">
+					<div id="message" class="alert alert-danger" role="alert" tabindex="0"></div>
+				</div>
+				<div class="form-group">
+				  	<div class="col-sm-12">
+						<label for="username" class="control-label">Codice fiscale:</label>
+					</div>
+					<div class="col-sm-8">
+						<input id="username" class="text form-control" type="text" maxlength="16" autocomplete="off" required autofocus />
+					</div>
+				</div>
+				<div class="form-group">
+					<div class="col-sm-12">
+						<label for="password" class="control-label">Password:</label>
+					</div>
+					<div class="col-sm-8">
+						<input id="password" class="text form-control" type="password" autocomplete="off" required />
+					</div>
+				</div>
+				<hr>
+				<div class="form-group col-sm-12 padding40">
+					<button id="login-button" type="submit" class="btn btn-primary pull-right" disabled>
+						<i class="fa fa-sign-in"></i> Accedi
+					</button>
+				</div>
+			</form>
+			</div>
+		</div>
+	</div>
+	
+		<footer class="eq_footer text-center" aria-hidden="true">
+		</footer>
+ 
+		
+		
+
+		<script type="text/javascript" src="scripts/jquery.min.js"></script>
+		<script type="text/javascript" src="scripts/login.js"></script>
+	</body>
+</html>

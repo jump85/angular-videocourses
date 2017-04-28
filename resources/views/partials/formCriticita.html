@@ -1,0 +1,244 @@
+<div class="eq_blockTitle4">
+	{{titolo}}
+</div>
+<div class="eq_contentBlock1">
+	N.B.: i campi con * sono obbligatori
+</div>
+
+<div class="eq_contentBlock2">
+
+	<div class="title">
+		
+	</div>
+	
+	<div class="content">
+		<form class="form-horizontal" name="formCriticita" data-ng-submit="salva(formCriticita)" novalidate>
+			
+			<h4>Cliente</h4>
+  			
+  			<div class="form-group">
+  				<div class="col-sm-6" ">
+  					<div class="col-sm-12">
+						<label for="idBpm" class="control-label" >Ente</label>
+					</div>
+					<div class="col-sm-12" >
+						<select class="text form-control" data-ng-model="formContent.idBpm">
+							<option value=""></option>
+							<option value="1">ENTE1</option>
+							<option value="2">ENTE2</option>
+						</select>
+					</div>
+				</div>
+				<div class="col-sm-6" ">
+  					<div class="col-sm-12">
+						<label for="strutture" class="control-label">Denominazione</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="strutture" data-ng-model="formContent.strutture" />
+					</div>
+				</div>
+			</div>
+			
+			<hr/>
+			<h4>Fornitore</h4>
+  			<div class="form-group">	
+  				<div class="col-sm-6" >
+  					<div class="col-sm-12">
+						<label for="idFornitore" class="control-label">Denominazione</label>
+					</div>					
+					
+					<div class="col-sm-12">
+						<select class="text form-control" name="fornitoreSelezionato" data-ng-model="formContent.fornitoreSelezionato" 
+								ng-options="fornitore as fornitore.denominazione for fornitore in listaFornitori">
+	    					<option value="">Seleziona il fornitore</option>
+						</select>
+					</div>
+					
+				</div>
+					
+				<div class="col-sm-6" data-ng-show='formContent.fornitoreSelezionato.id'>
+  					<div class="col-sm-12">
+						<label for="cantiereDescrizione" class="control-label">Comune/Cantiere</label>
+					</div>
+					<div class="col-sm-12">
+						<span>{{formContent.fornitoreSelezionato.cantiere}}</span>
+					</div>
+				</div>
+			</div>				
+			
+  			<div class="form-group" ng-show='formContent.fornitoreSelezionato.id'>
+  				<div class="col-sm-6" >
+  					<div class="col-sm-12">
+						<label for="commercialeDenominazione" class="control-label">Commerciale</label>
+					</div>
+					<div class="col-sm-12">
+						<span>{{formContent.fornitoreSelezionato.commNome + ' ' + formContent.fornitoreSelezionato.commCognome}}</span>
+					</div>
+				</div>
+				
+				<div class="col-sm-6" ng-show='formContent.fornitoreSelezionato.id' >
+  					<div class="col-sm-12">
+						<label for="coordinatoreDescrizione" class="control-label" >Coordinatore</label>
+					</div>
+					<div class="col-sm-12">
+						<span>{{formContent.fornitoreSelezionato.coordNome + ' ' + formContent.fornitoreSelezionato.coordCognome}}</span>
+				</div>
+			</div>
+			
+			</div>
+							
+			<hr/>			
+			<h4>Dati criticit&agrave;</h4>
+  			<div class="form-group">
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formCriticita.$submitted && formCriticita.categoria.$invalid}">
+  					<div class="col-sm-12">
+						<label for="idBpm" class="control-label" >Categoria *</label>
+					</div>
+					<div class="col-sm-12" >
+						<select class="text form-control" name="categoria" data-ng-model="formContent.categoria" data-ng-required="true"
+								ng-options="tipoCategoria.categoria as tipoCategoria.categoria for tipoCategoria in listaCategorie | unique:'categoria'">
+						</select>
+					</div>
+				</div>
+				
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formCriticita.$submitted && formCriticita.dataEvento.$invalid}">
+  					<div class="col-sm-12">
+						<label for="dataEvento" class="control-label">Data evento *</label>
+					</div>
+					<div class="col-sm-10">
+						<input type="text" class="text form-control" name="dataEvento"  data-ng-required="true" uib-datepicker-popup="{{format}}"
+							data-ng-model="formContent.dataEvento" is-open="popup.opened" datepicker-options="dateOptions" close-text="Close" alt-input-formats="altInputFormats"/>
+					</div>
+					<div class="col-sm-1">
+						<button type="button" class="btn btn-xs btn-default" ng-click="open()"><i class="glyphicon glyphicon-calendar"></i></button>
+					</div>
+				</div>
+			</div>
+			
+			<div class="form-group" >
+				<div class="col-sm-6" data-ng-class="{'has-error' : formCriticita.$submitted && formCriticita.descrizioneMacro.$invalid}">
+  					<div class="col-sm-12">
+						<label for="descrizioneMacro" class="control-label">Descrizione macro *</label>
+					</div>
+					<div class="col-sm-12">
+						<select class="text form-control" name="descrizioneMacro" data-ng-model="formContent.descrizioneMacro" data-ng-required="true" data-ng-disabled="!formContent.categoria"
+								data-ng-options="tipoCategoria.macroarea as tipoCategoria.macroarea for tipoCategoria in listaCategorie | 
+												 filter: {categoria: formContent.categoria} | unique:'macroarea'" >
+						</select>
+					</div>
+				</div>
+				
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formCriticita.$submitted && formCriticita.descrizioneMicro.$invalid}">
+  					<div class="col-sm-12">
+						<label for="descrizioneMicro" class="control-label" >Descrizione micro *</label>
+					</div>
+					<div class="col-sm-12">
+						<select class="text form-control" name="descrizioneMicro" data-ng-model="formContent.descrizioneMicro" data-ng-required="true" data-ng-disabled="!formContent.descrizioneMacro"
+							data-ng-options="tipoCategoria.microarea as tipoCategoria.microarea for tipoCategoria in listaCategorie | 
+											 filter: {categoria: formContent.categoria, macroarea: formContent.descrizioneMacro} | unique:'microarea'">
+						</select>
+					</div>
+				</div>
+			</div>
+			
+			<div class="form-group">
+				<div class="col-sm-6" ">
+  					<div class="col-sm-12">
+						<label for="descrizioneAltro" class="control-label" >Descrizione altro</label>
+					</div>
+					<div class="col-sm-12">
+						<select class="text form-control" name="descrizioneAltro" data-ng-model="formContent.descrizioneAltro" data-ng-disabled="!formContent.descrizioneMicro"
+							data-ng-options="tipoCategoria.descrizione as tipoCategoria.descrizione for tipoCategoria in listaCategorie | 
+											 filter: {categoria: formContent.categoria, macroarea: formContent.descrizioneMacro, microarea: formContent.descrizioneMicro} | unique:'descrizione'">
+						</select>
+					</div>
+				</div>
+				
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formCriticita.$submitted && formCriticita.descrizioneCriticita.$invalid}">
+  					<div class="col-sm-12">
+						<label for="descrizioneCriticita" class="control-label">Descrizione *</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="descrizioneCriticita" ng-model="formContent.descrizioneCriticita" data-ng-required="true" />
+					</div>
+				</div>
+			</div>
+			
+			<div class="form-group">
+				<div class="col-sm-6" data-ng-class="{'has-error' : formCriticita.$submitted && formCriticita.regioneSelezionata.$invalid}">
+  					<div class="col-sm-12">
+						<label for="regione" class="control-label" >Regione *</label>
+					</div>
+					<div class="col-sm-12">
+						<select class="text form-control" name="regione" data-ng-model="regione" data-ng-required="true"
+						data-ng-options="regione as regione.descrizione for regione in elencoRegioni">
+	    					<option value="">Seleziona la regione</option>
+						</select>
+					</div>
+				</div>
+				
+  				<div class="col-sm-6">
+  					<div class="col-sm-12">
+						<label for="siglaProvincia" class="control-label" >Provincia</label>
+					</div>
+					<div class="col-sm-12">
+						<select class="text form-control" name="provinciaSelezionata" data-ng-disabled="!regione"  data-ng-model="provincia" data-ng-options="provincia as provincia.descrizione for provincia in elencoProvince">
+	    					<option value="">Seleziona la provincia</option>
+						</select>
+					</div>
+				</div>
+			</div>
+			
+			<div class="form-group">
+				<div class="col-sm-6"">
+  					<div class="col-sm-12">
+						<label for="tipologia" class="control-label" >Tipo criticit&agrave;</label>
+					</div>
+					<div class="col-sm-12">
+						<select class="text form-control" name="tipologia" data-ng-model="formContent.tipologia">
+							<option value=""></option>
+							<option value="1">OPERATIVO</option>
+							<option value="0">COMMERCIALE</option>
+						</select>
+					</div>
+				</div>
+			</div>
+			
+			<hr/>
+
+		
+			<h4>Documenti</h4>
+  			<div class="form-group">
+			<div id="uploader">
+                <div class="col-sm-12">
+
+                    <div class="well">
+                        <div class="form-group">
+                        	<div class="col-sm-9">
+                            	<input type="file" id="file1" class="text form-control" multiple/>
+                            </div>
+                            <div class="col-sm-2">
+                                <button class="btn btn-default btn-xs" ng-click="btnClean()">Rimuovi tutti</button>
+                            </div>
+                        </div>
+                        <div ng-repeat="file in files" style="margin-top: 20px;border-bottom-color: antiquewhite;border-bottom-style: double;">
+                            <div><span>{{file.name}}</span><div style="float:right;"><span>{{file.humanSize}}</span>
+                            <button class="btn btn-default" ng-click="btnRemove(file)">Rimuovi<i class="icon-remove"></i></button></div>
+                            </div>
+                            <progress style="width:400px;" value="{{file.loaded}}" max="{{file.size}}"></progress>
+                        </div>
+                    </div>
+                </div>
+		</div>
+        </div>
+			
+			<hr/>
+			
+			<div class="form-group">
+				<button type="submit" class="btn btn-primary pull-right">Invia richiesta</button>
+			</div>
+			
+				</form>
+	
+	</div>
+	</div>

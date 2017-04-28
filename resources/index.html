@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+		<meta http-equiv="PRAGMA" content="NO-CACHE" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Area Giochi Demo</title>
+
+		<link rel="stylesheet" href="styles/bootstrap.min.css" />
+	    <link rel="stylesheet" type="text/css" href="styles/bootstrap-theme.min.css" />
+		<link rel="stylesheet" href="styles/font-awesome.min.css" />
+		<link rel="stylesheet" href="styles/angular-chart.min.css" />
+		<link rel="stylesheet" href="styles/ngprogress-lite.css" />
+		<link rel="stylesheet" href="styles/app.css" />
+    </head>
+
+    <body>
+
+	<div class="container">
+	<div class="container header">
+	   	<div class="col-sm-5">
+	   		<img alt="AAMS" src="images/aamslogo.jpg" class="flex" height="120"/>
+	   	</div>
+	   	<div class="col-sm-5">
+	     	<div class="row text-center"><h1>Area Giochi Demo App</h1></div>
+	     	<div class="row text-center">Agenzia delle Dogane e dei Monopoli</div>
+	     </div>
+	</div>
+
+	<div data-ng-controller="UserCtrl">
+		<data-ntt-menu titolo="AAMS" info-utente="utente"></data-ntt-menu>
+		<data-ntt-bc listaVoci="listaBreadCrumb"></data-ntt-bc>
+	</div>
+
+    	<!-- Tutti gli attributi ng- devono essere preceduti da data- per essere conformi alle specifiche HTML5 -->
+<!-- 		<div class="row" data-ng-include data-src="'views/includes/messages.html'"></div> -->
+
+		<div data-ng-view></div>
+
+	</div>
+
+		<!-- Nella Single Page Application includo solo RequireJS e il relativo file di configurazione main.js -->
+
+		<!-- Versione NON minificata dell'applicazione -->
+<!-- 		<script type="text/javascript" src="scripts/libs/angular.js"></script> -->
+<!-- 		<script type="text/javascript" src="scripts/libs/Chart.js"></script> -->
+<!-- 		<script type="text/javascript" src="scripts/libs/angular-chart.js"></script> -->
+		<script type="text/javascript" src="https://meet.jit.si/external_api.js"></script>
+		<script type="text/javascript" data-main="scripts/app/main.js" src="scripts/libs/require.js"></script>
+
+
+		<!-- Versione MINIFICATA dell'applicazione -->
+<!-- 		<script type="text/javascript" data-main="scripts/webapp.min.js" src="scripts/libs/require.min.js"></script>	 -->
+	</body>
+</html>

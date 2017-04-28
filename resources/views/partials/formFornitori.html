@@ -1,0 +1,136 @@
+<div class="eq_blockTitle4">
+	{{titolo}}
+</div>
+<div class="eq_contentBlock1">
+	N.B.: i campi con * sono obbligatori
+</div>
+
+<div class="eq_contentBlock2">
+
+	<div class="title">
+		
+	</div>
+	
+	<div class="content">
+		<form class="form-horizontal" name="formFornitori" data-ng-submit="salva(formFornitori)" novalidate>
+  			<div class="form-group" data-ng-class="{'has-error' : formFornitori.$submitted && formFornitori.denominazione.$invalid}">
+  				<div class="col-sm-12">
+					<label for="denominazione" class="control-label">Denominazione *</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="denominazione" data-ng-model="formContent.denominazione" data-ng-required="true"/>
+				</div>
+			</div>
+			<hr/>
+			<h4>Commerciale Riferimenti</h4>
+  			<div class="form-group">
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formFornitori.$submitted && formFornitori.commercialeCognome.$invalid}">
+  					<div class="col-sm-12">
+						<label for="commercialeCognome" class="control-label" data-context="Commerciale">Cognome *</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="commercialeCognome"  
+							data-ng-model="formContent.commCognome" data-ng-required="true" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+					</div>
+				</div>
+				<div class="col-sm-6" data-ng-class="{'has-error' : formFornitori.$submitted && formFornitori.commercialeNome.$invalid}">
+  					<div class="col-sm-12">
+						<label for="commercialeNome" class="control-label" data-context="Commerciale">Nome *</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="commercialeNome"  
+							data-ng-model="formContent.commNome" data-ng-required="true" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+					</div>
+				</div>
+			</div>
+			<div class="form-group">
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formFornitori.$submitted && formFornitori.commercialeTelefono.$invalid}">
+  					<div class="col-sm-12">
+						<label for="commercialeTelefono" class="control-label" data-context="Commerciale">Telefono</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="commercialeTelefono"  
+							data-ng-model="formContent.commTelefono" data-ng-pattern="'[+,0-9]*'"/>
+					</div>
+				</div>
+				<div class="col-sm-6" data-ng-class="{'has-error' : formFornitori.$submitted && formFornitori.commercialeEmail.$invalid}">
+  					<div class="col-sm-12">
+						<label for="commercialeEmail" class="control-label" data-context="Commerciale">E-mail</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="commercialeEmail"  
+							data-ng-model="formContent.commEmail" data-ng-pattern="'[a-z,A-Z,0-9,.]*@[a-z,A-Z,0-9]*.[a-z,A-Z,0-9,.]*'"/>
+					</div>
+				</div>
+			</div>
+			<hr/>
+			<h4>Coordinatore Riferimenti</h4>
+  			<div class="form-group">
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formFornitori.$submitted && formFornitori.coordinatoreCognome.$invalid}">
+  					<div class="col-sm-12">
+						<label for="coordinatoreCognome" class="control-label" data-context="Coordinatore">Cognome *</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="coordinatoreCognome"  
+							data-ng-model="formContent.coordCognome" data-ng-required="true" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+					</div>
+				</div>
+				<div class="col-sm-6" data-ng-class="{'has-error' : formFornitori.$submitted && formFornitori.coordinatoreNome.$invalid}">
+  					<div class="col-sm-12">
+						<label for="coordinatoreNome" class="control-label" data-context="Coordinatore">Nome *</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="coordinatoreNome"  
+							data-ng-model="formContent.coordNome" data-ng-required="true" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+					</div>
+				</div>
+			</div>
+			<div class="form-group">
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formFornitori.$submitted && formFornitori.coordinatoreTelefono.$invalid}">
+  					<div class="col-sm-12">
+						<label for="coordinatoreTelefono" class="control-label" data-context="Coordinatore">Telefono</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="coordinatoreTelefono"  
+							data-ng-model="formContent.coordTelefono" data-ng-pattern="'[+,0-9]*'"/>
+					</div>
+				</div>
+				<div class="col-sm-6" data-ng-class="{'has-error' : formFornitori.$submitted && formFornitori.coordinatoreEmail.$invalid}">
+  					<div class="col-sm-12">
+						<label for="coordinatoreEmail" class="control-label" data-context="Coordinatore">E-mail</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="coordinatoreEmail"  
+							data-ng-model="formContent.coordEmail" data-ng-pattern="'[a-z,A-Z,0-9,.]*@[a-z,A-Z,0-9]*.[a-z,A-Z,0-9,.]*'"/>
+					</div>
+				</div>
+			</div>
+			<hr/>
+			<div class="form-group" data-ng-class="{'has-error' : formFornitori.$submitted && formFornitori.provincia.$invalid}">
+  				<div class="col-sm-12">
+					<label for="provincia" class="control-label">Provincia</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="provincia" data-ng-model="formContent.provincia" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+				</div>
+			</div>
+			<div class="form-group" data-ng-class="{'has-error' : formFornitori.$submitted && formFornitori.cantiere.$invalid}">
+  				<div class="col-sm-12">
+					<label for="cantiere" class="control-label">Cantiere</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="cantiere" data-ng-model="formContent.cantiere" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+				</div>
+			</div>
+			<div class="form-group" ng-show="formContent.id">
+  				<div class="col-sm-12">
+					<label class="col-sm-2 text-left">Rapporto cessato</label>
+					<div class="col-sm-2"><input type="radio" name="attivo" data-ng-model="formContent.attivo" value="SI"/>SI</div>
+					<div class="col-sm-2"><input type="radio" name="attivo" data-ng-model="formContent.attivo" value="NO"/>NO</div>
+				</div>
+			</div>
+			<div class="form-group">
+				<button type="submit" class="btn btn-primary pull-right">{{submitLabel}}</button>
+			</div>
+	</div>
+</div>

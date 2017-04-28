@@ -1,0 +1,200 @@
+<div class="eq_blockTitle4">
+	{{titolo}}
+</div>
+
+<div class="eq_contentBlock2">
+
+	<div class="title">
+		
+	</div>
+	
+	<div class="content">
+		<form class="form-horizontal" name="formCercaFornitori" data-ng-submit="cerca(formCercaFornitori)" novalidate>
+  			<div class="form-group">
+  				<div class="col-sm-12">
+					<label for="denominazione" class="control-label">Denominazione</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="denominazione" data-ng-model="formContent.denominazione"/>
+				</div>
+			</div>
+			<hr/>
+			<h4>Commerciale Riferimenti</h4>
+  			<div class="form-group">
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formCercaFornitori.$submitted && formCercaFornitori.commercialeCognome.$invalid}">
+  					<div class="col-sm-12">
+						<label for="commercialeCognome" class="control-label" data-context="Commerciale">Cognome</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="commercialeCognome" 
+							data-ng-model="formContent.commCognome" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+					</div>
+				</div>
+				<div class="col-sm-6" data-ng-class="{'has-error' : formCercaFornitori.$submitted && formCercaFornitori.commercialeNome.$invalid}">
+  					<div class="col-sm-12">
+						<label for="commercialeNome" class="control-label" data-context="Commerciale">Nome</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="commercialeNome"
+							data-ng-model="formContent.commNome" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+					</div>
+				</div>
+			</div>
+			<div class="form-group">
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formCercaFornitori.$submitted && formCercaFornitori.commercialeTelefono.$invalid}">
+  					<div class="col-sm-12">
+						<label for="commercialeTelefono" class="control-label" data-context="Commerciale">Telefono</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="commercialeTelefono"  
+							data-ng-model="formContent.commTelefono" data-ng-pattern="'[+,0-9]*'"/>
+					</div>
+				</div>
+				<div class="col-sm-6" data-ng-class="{'has-error' : formCercaFornitori.$submitted && formCercaFornitori.commercialeEmail.$invalid}">
+  					<div class="col-sm-12">
+						<label for="commercialeEmail" class="control-label" data-context="Commerciale">E-mail</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="commercialeEmail"  
+							data-ng-model="formContent.commEmail" data-ng-pattern="'[a-z,A-Z,0-9,.]*'"/>
+					</div>
+				</div>
+			</div>
+			<hr/>
+			<h4>Coordinatore Riferimenti</h4>
+  			<div class="form-group">
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formCercaFornitori.$submitted && formCercaFornitori.coordinatoreCognome.$invalid}">
+  					<div class="col-sm-12">
+						<label for="coordinatoreCognome" class="control-label" data-context="Coordinatore">Cognome</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="coordinatoreCognome"  
+							data-ng-model="formContent.coordCognome" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+					</div>
+				</div>
+				<div class="col-sm-6" data-ng-class="{'has-error' : formCercaFornitori.$submitted && formCercaFornitori.coordinatoreNome.$invalid}">
+  					<div class="col-sm-12">
+						<label for="coordinatoreNome" class="control-label" data-context="Coordinatore">Nome</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="coordinatoreNome"  
+							data-ng-model="formContent.coordNome" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+					</div>
+				</div>
+			</div>
+			<div class="form-group">
+  				<div class="col-sm-6" data-ng-class="{'has-error' : formCercaFornitori.$submitted && formCercaFornitori.coordinatoreTelefono.$invalid}">
+  					<div class="col-sm-12">
+						<label for="coordinatoreTelefono" class="control-label" data-context="Coordinatore">Telefono</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="coordinatoreTelefono"  
+							data-ng-model="formContent.coordTelefono" data-ng-pattern="'[+,0-9]*'"/>
+					</div>
+				</div>
+				<div class="col-sm-6" data-ng-class="{'has-error' : formCercaFornitori.$submitted && formCercaFornitori.coordinatoreEmail.$invalid}">
+  					<div class="col-sm-12">
+						<label for="coordinatoreEmail" class="control-label" data-context="Coordinatore">E-mail</label>
+					</div>
+					<div class="col-sm-12">
+						<input type="text" class="text form-control" name="coordinatoreEmail"  
+							data-ng-model="formContent.coordEmail" data-ng-pattern="'[a-z,A-Z,0-9,.]*'"/>
+					</div>
+				</div>
+			</div>
+			<hr/>
+			<div class="form-group" data-ng-class="{'has-error' : formCercaFornitori.$submitted && formCercaFornitori.provincia.$invalid}">
+  				<div class="col-sm-12">
+					<label for="provincia" class="control-label">Provincia</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="provincia" data-ng-model="formContent.provincia" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+				</div>
+			</div>
+			<div class="form-group" data-ng-class="{'has-error' : formCercaFornitori.$submitted && formCercaFornitori.cantiere.$invalid}">
+  				<div class="col-sm-12">
+					<label for="cantiere" class="control-label">Cantiere</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="cantiere" data-ng-model="formContent.cantiere" data-ng-pattern="'[A-Z,a-z, ]*'"/>
+				</div>
+			</div>
+			<div class="form-group">
+  				<div class="col-sm-12">
+					<label class="control-label">Rapporto cessato</label>
+				</div>
+				<div class="col-sm-2">
+					<select class="text form-control" ng-model="formContent.attivo">
+						<option value=""></option>
+						<option value="SI">SI</option>
+						<option value="NO">NO</option>
+					</select>
+				</div>
+			</div>
+			<div class="form-group">
+				<button type="submit" class="btn btn-primary pull-right">Cerca</button>
+			</div>
+	</div>
+
+
+	<div data-ng-if="!isLoading">
+		<div class="title">
+			Elenco Fornitori
+		</div>
+
+		<table class="tabella" st-table="rowsFornitori">
+			<thead>
+				<tr>
+					<th>Denominazione</th>
+<!--					<th class="col-sm-1">Cognome</th>-->
+<!--					<th class="col-sm-1">Nome</th>-->
+<!--					<th class="col-sm-1">Telefono</th>-->
+<!--					<th class="col-sm-1">Email</th>-->
+<!--					<th class="col-sm-1">Cognome</th>-->
+<!--					<th class="col-sm-1">Nome</th>-->
+<!--					<th class="col-sm-1">Telefono</th>-->
+<!--					<th class="col-sm-1">Email</th>-->
+					<th>Provincia</th>
+					<th>Cantiere</th>
+					<th>Rapp. cessato</th>
+					<th>Dett.</th>
+					<th>Mod.</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr data-ng-repeat="row in rowsFornitori" data-ng-class-odd="'r-odd'" data-ng-class-even="'r-even'">
+					<td>{{row.denominazione}}</td>
+<!--					<td>{{row.commerciale.cognome}}</td>-->
+<!--					<td>{{row.commerciale.nome}}</td>-->
+<!--					<td>{{row.commerciale.telefono}}</td>-->
+<!--					<td>{{row.commerciale.email}}</td>-->
+<!--					<td>{{row.coordinatore.cognome}}</td>-->
+<!--					<td>{{row.coordinatore.nome}}</td>-->
+<!--					<td>{{row.coordinatore.telefono}}</td>-->
+<!--					<td>{{row.coordinatore.email}}</td>-->
+					<td>{{row.provincia}}</td>
+					<td>{{row.cantiere}}</td>
+					<td>{{row.attivo}}</td>
+					<td><a href="{{CONSTANTS.DETT_FORNITORE_PAGE + row.id}}" 
+						   data-ng-click="pushStackElement(CONSTANTS.DETT_FORNITORE_PAGE + row.id, 'Dettaglio fornitore', false)">
+						   <img title="Dettaglio" src="images/icoDett.png"/>
+					</a></td>
+					<td><a href="{{CONSTANTS.UPD_FORNITORE_PAGE + row.id}}" 
+						   data-ng-click="pushStackElement(CONSTANTS.UPD_FORNITORE_PAGE + row.id, 'Modifica fornitore', false)">
+						   <img title="Dettaglio" src="images/icoMod.png"/>
+					</a></td>
+				</tr>
+			</tbody>
+
+			<tfoot>
+				<tr>
+					<td class="footer" colspan="6">Fornitori presenti {{numFornitori}}</td>
+				</tr>
+				<tr>
+					<td class="text-center" st-pagination="" st-items-by-page="rowsPerPage" colspan="6"></td> 
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+
+</div>

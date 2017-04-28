@@ -1,0 +1,75 @@
+ <div class="sidebar-nav" data-ng-controller="MenuCtrl"> 
+ <nav class="navbar navbar-default" role="navigation"> 
+ 		<div class="navbar-header"> 
+ 		</div> 
+ 		<div class="collapse navbar-collapse sidebar-navbar-collapse"> 
+ 			<ul class="nav navbar-nav">
+ 				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Criticit&agrave;<b class="caret"></b></a> 
+ 					<ul class="dropdown-menu"> 
+ 						<li><a href="">Lista criticit&agrave;</a></li> 
+  						<li><a href="{{CONSTANTS.INS_CRITICITA_PAGE}}" data-ng-click="pushStackElement(CONSTANTS.INS_CRITICITA_PAGE, 'Inserisci Criticita', true)">Nuova</a></li>  						
+ 						<li><a href="">Ricerca</a></li>
+ 						<li><a href="">Report</a></li> 
+<!-- 						<li class="divider"></li> -->
+<!-- 						<li class="dropdown-header">Nav header</li> -->
+ 					</ul>
+ 				</li> 
+ 				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">FORNITORI <b class="caret"></b></a> 
+ 					<ul class="dropdown-menu"> 
+ 						<li><a href="{{CONSTANTS.INS_FORNITORE_PAGE}}" data-ng-click="pushStackElement(CONSTANTS.INS_FORNITORE_PAGE, 'Inserisci Fornitore', true)">Inserisci Fornitore</a></li> 
+ 						<li><a href="{{CONSTANTS.CERCA_FORNITORI_PAGE}}" data-ng-click="pushStackElement(CONSTANTS.CERCA_FORNITORI_PAGE, 'Ricerca Fornitori', true)">Ricerca Fornitori</a></li> 
+<!-- 						<li class="divider"></li> -->
+<!-- 						<li class="dropdown-header">Nav header</li> -->
+ 					</ul>
+ 				</li> 
+ 				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">CATEGORIE <b class="caret"></b></a> 
+ 					<ul class="dropdown-menu"> 
+ 						<li><a href="{{CONSTANTS.INS_TIPO_CATEGORIA_PAGE}}" data-ng-click="pushStackElement(CONSTANTS.INS_FORNITORE_PAGE, 'Inserisci Tipo Categoria', true)">Inserisci tipo categoria</a></li> 
+ 						<li><a href="{{CONSTANTS.CERCA_TIPO_CATEGORIA_PAGE}}" data-ng-click="pushStackElement(CONSTANTS.CERCA_TIPO_CATEGORIA_PAGE, 'Ricerca Tipo Categoria', true)">Ricerca Tipo Categoria</a></li> 
+<!-- 						<li class="divider"></li> -->
+<!-- 						<li class="dropdown-header">Nav header</li> -->
+ 					</ul>
+ 				</li> 
+ 			</ul> 
+ 		</div> 
+ 	</nav> 
+ </div> 
+
+<!--		<div id="eq_navigation" data-ng-controller="MenuCtrl">-->
+<!--			<ul>-->
+<!--				<li class="open">-->
+<!--					<span class="parent">Monitoraggio Criticit&agrave;</span>-->
+<!--					<ul style="display: block;">-->
+<!--							<li>-->
+<!--								<a class="selected" href="{{CONSTANTS.INS_FORNITORE_PAGE}}" data-ng-click="pushStackElement(CONSTANTS.INS_FORNITORE_PAGE, 'Inserisci Fornitore', true)">Inserisci Fornitore</a>-->
+<!--							</li>-->
+<!---->
+<!--							<li>-->
+<!--								<a class="selected" href="{{CONSTANTS.UPD_FORNITORE_PAGE}}" data-ng-click="pushStackElement('CONSTANTS.UPD_FORNITORE_PAGE', 'Aggiorna Fornitore', false)">Aggiorna Fornitore</a>-->
+<!--							</li>-->
+<!---->
+<!--							<li>-->
+<!--								<a class="selected" href="#/insCategoria" data-ng-click="pushStackElement(#/insCategoria', 'Inserisci Tipo Categoria', true)">Inserisci Tipo Categoria</a>-->
+<!--							</li>-->
+<!--					</ul>-->
+<!--				</li>-->
+<!---->
+<!--				<li class="open">-->
+<!--					<span class="parent">Interrogazioni Criticit&agrave;</span>-->
+<!--					<ul style="display: block;">-->
+<!--							<li>-->
+<!--								<a class="selected" href="{{CONSTANTS.INS_FORNITORE_PAGE}}" data-ng-click="pushStackElement(CONSTANTS.INS_FORNITORE_PAGE, 'Ricerca Fornitore', true)">Ricerca fornitore</a>-->
+<!--							</li>-->
+<!---->
+<!--							<li>-->
+<!--								<a class="selected" href="#/updFornitore" data-ng-click="pushStackElement('#/updFornitore', 'Dettaglio fornitore per chiave', false)">Dettaglio fornitore per chiave</a>-->
+<!--							</li>-->
+<!---->
+<!--							<li>-->
+<!--								<a class="selected" href="#/insCategoria" data-ng-click="pushStackElement(#/insCategoria', 'Ricerca Tipo Categoria', true)">Ricerca Tipo Categoria</a>-->
+<!--							</li>-->
+<!--					</ul>-->
+<!--				</li>-->
+<!--			</ul>-->
+<!---->
+<!--		</div>-->

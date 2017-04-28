@@ -1,0 +1,4852 @@
+{
+  "istanze": [
+    {
+      "idprotaams": "a1615219g2408",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11469",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43578",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515112j1736",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "verifica formale in corso",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "4466",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "4",
+      "dtprotnsd": "04/28/2015",
+      
+      "codmotivazione": "46277",
+      "dtultimaelab": "04/27/2015",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515044i1502",
+      "destipoistanza": "integrazione piatt.",
+      "desstatoistanza": "verifica formale chiusa positivamente",
+      "codconc": "15044",
+      "denomconc": "casino'' s.p.a.",
+      "tipogioco": "0",
+      "codpiatt": "92",
+      "codgioco": "0",
+      "descazione": "collaudare",
+      "dttrasmissione": "04/17/2015",
+      
+      "tipoistanza": "1",
+      "tiporichiesta": "i",
+      "statusistanza": "n",
+      "dtultimoagg": "5",
+      "dtprotnsd": "06/19/2015",
+      
+      "codmotivazione": "64147",
+      "dtultimaelab": "06/19/2015",
+      
+      "tipoelabdati": "6",
+      "descelabdati": "fsc risulta modificato"
+    },
+    {
+      "idprotaams": "a1515096g0312",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "verifica formale chiusa positivamente",
+      "codconc": "15096",
+      "denomconc": "admiral interactive srl",
+      "tipogioco": "1",
+      "codpiatt": "50",
+      "codgioco": "9761",
+      "descazione": "collaudare",
+      "dttrasmissione": "02/02/2015",
+      
+      "tipoistanza": "1",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "5",
+      "dtprotnsd": "03/27/2015",
+      
+      "codmotivazione": "36213",
+      "dtultimaelab": "03/27/2015",
+      
+      "tipoelabdati": "2",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515016g0376",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "verifica formale chiusa positivamente",
+      "codconc": "15016",
+      "denomconc": "eurobet italia srl",
+      "tipogioco": "3",
+      "codpiatt": "11",
+      "codgioco": "9799",
+      "descazione": "collaudare",
+      "dttrasmissione": "02/12/2015",
+      
+      "tipoistanza": "1",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "5",
+      "dtprotnsd": "04/17/2015",
+      
+      "codmotivazione": "43020",
+      "dtultimaelab": "04/17/2015",
+      
+      "tipoelabdati": "2",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515114g1663",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "verifica formale chiusa positivamente",
+      "codconc": "15114",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "9157",
+      "descazione": "scartare",
+      "dttrasmissione": "04/23/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "5",
+      "dtprotnsd": "04/24/2015",
+      
+      "codmotivazione": "45241",
+      "dtultimaelab": "04/23/2015",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515096g0311",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "verifica formale chiusa positivamente",
+      "codconc": "15096",
+      "denomconc": "admiral interactive srl",
+      "tipogioco": "1",
+      "codpiatt": "50",
+      "codgioco": "9760",
+      "descazione": "collaudare",
+      "dttrasmissione": "02/02/2015",
+      
+      "tipoistanza": "1",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "5",
+      "dtprotnsd": "03/27/2015",
+      
+      "codmotivazione": "36212",
+      "dtultimaelab": "03/27/2015",
+      
+      "tipoelabdati": "2",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615232x1540",
+      "destipoistanza": "modifica utilizzo della piattaforma",
+      "desstatoistanza": "verifica formale chiusa positivamente",
+      "codconc": "15232",
+      "denomconc": "e-play 24 ita limited",
+      "tipogioco": "0",
+      "codpiatt": "2",
+      "codgioco": "0",
+      "descazione": "collaudare",
+      "dttrasmissione": "04/06/2016",
+      
+      "tipoistanza": "1",
+      "tiporichiesta": "x",
+      "statusistanza": "n",
+      "dtultimoagg": "5",
+      "dtprotnsd": "04/07/2016",
+      
+      "codmotivazione": "34494",
+      "dtultimaelab": "04/07/2016",
+      
+      "tipoelabdati": "6",
+      "descelabdati": "fsc risulta modificato"
+    },
+    {
+      "idprotaams": "a1615232x1552",
+      "destipoistanza": "modifica utilizzo della piattaforma",
+      "desstatoistanza": "verifica formale chiusa positivamente",
+      "codconc": "15232",
+      "denomconc": "e-play 24 ita limited",
+      "tipogioco": "0",
+      "codpiatt": "11",
+      "codgioco": "0",
+      "descazione": "collaudare",
+      "dttrasmissione": "04/06/2016",
+      
+      "tipoistanza": "1",
+      "tiporichiesta": "x",
+      "statusistanza": "n",
+      "dtultimoagg": "5",
+      "dtprotnsd": "04/07/2016",
+      
+      "codmotivazione": "34506",
+      "dtultimaelab": "04/07/2016",
+      
+      "tipoelabdati": "6",
+      "descelabdati": "fsc risulta modificato"
+    },
+    {
+      "idprotaams": "a1515223m4099",
+      "destipoistanza": "modifica piatt.",
+      "desstatoistanza": "verifica formale chiusa positivamente",
+      "codconc": "15223",
+      "denomconc": "societa'' italiana betting srl",
+      "tipogioco": "0",
+      "codpiatt": "82",
+      "codgioco": "0",
+      "descazione": "collaudare",
+      "dttrasmissione": "10/12/2015",
+      
+      "tipoistanza": "1",
+      "tiporichiesta": "m",
+      "statusistanza": "n",
+      "dtultimoagg": "5",
+      "dtprotnsd": "10/20/2015",
+      
+      "codmotivazione": "99249",
+      "dtultimaelab": "10/20/2015",
+      
+      "tipoelabdati": "6",
+      "descelabdati": "fsc risulta modificato"
+    },
+    {
+      "idprotaams": "a1615174g1300",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15174",
+      "denomconc": "pinter s.r.l.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "295",
+      "descazione": "in corso",
+      "dttrasmissione": "03/23/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/09/2016",
+      
+      "codmotivazione": "40628",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615174g1303",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15174",
+      "denomconc": "pinter s.r.l.",
+      "tipogioco": "3",
+      "codpiatt": "4",
+      "codgioco": "2234",
+      "descazione": "in corso",
+      "dttrasmissione": "03/23/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/09/2016",
+      
+      "codmotivazione": "40631",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615174g1305",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15174",
+      "denomconc": "pinter s.r.l.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "5404",
+      "descazione": "in corso",
+      "dttrasmissione": "03/23/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/09/2016",
+      
+      "codmotivazione": "40633",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026p3260",
+      "destipoistanza": "adesione piatt.",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "0",
+      "codpiatt": "5",
+      "codgioco": "0",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "z",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31440",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515007g3203",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15007",
+      "denomconc": "betflag s.p.a.",
+      "tipogioco": "1",
+      "codpiatt": "122",
+      "codgioco": "9308",
+      "descazione": "in corso",
+      "dttrasmissione": "09/02/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "114324",
+      "dtultimaelab": "11/30/2015",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g3270",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "1",
+      "codpiatt": "5",
+      "codgioco": "1353",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31456",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g4748",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "1",
+      "codpiatt": "5",
+      "codgioco": "9369",
+      "descazione": "in corso",
+      "dttrasmissione": "11/27/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31467",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515007g3210",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15007",
+      "denomconc": "betflag s.p.a.",
+      "tipogioco": "3",
+      "codpiatt": "122",
+      "codgioco": "9315",
+      "descazione": "in corso",
+      "dttrasmissione": "09/02/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "114337",
+      "dtultimaelab": "11/30/2015",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615174g1304",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15174",
+      "denomconc": "pinter s.r.l.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "5403",
+      "descazione": "in corso",
+      "dttrasmissione": "03/23/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/09/2016",
+      
+      "codmotivazione": "40632",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615174g1302",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15174",
+      "denomconc": "pinter s.r.l.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "2231",
+      "descazione": "in corso",
+      "dttrasmissione": "03/23/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/09/2016",
+      
+      "codmotivazione": "40630",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615174g1301",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15174",
+      "denomconc": "pinter s.r.l.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "296",
+      "descazione": "in corso",
+      "dttrasmissione": "03/23/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/09/2016",
+      
+      "codmotivazione": "40629",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615174g1299",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15174",
+      "denomconc": "pinter s.r.l.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "294",
+      "descazione": "in corso",
+      "dttrasmissione": "03/23/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/09/2016",
+      
+      "codmotivazione": "40627",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615174p1296",
+      "destipoistanza": "adesione piatt.",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15174",
+      "denomconc": "pinter s.r.l.",
+      "tipogioco": "0",
+      "codpiatt": "4",
+      "codgioco": "0",
+      "descazione": "in corso",
+      "dttrasmissione": "03/23/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "z",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/09/2016",
+      
+      "codmotivazione": "40614",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g3275",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "3",
+      "codpiatt": "5",
+      "codgioco": "6862",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31464",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g3273",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "1",
+      "codpiatt": "5",
+      "codgioco": "5408",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31462",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615174g1298",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15174",
+      "denomconc": "pinter s.r.l.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "293",
+      "descazione": "in corso",
+      "dttrasmissione": "03/23/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/09/2016",
+      
+      "codmotivazione": "40626",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515007g3204",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15007",
+      "denomconc": "betflag s.p.a.",
+      "tipogioco": "1",
+      "codpiatt": "122",
+      "codgioco": "9310",
+      "descazione": "in corso",
+      "dttrasmissione": "09/02/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "114327",
+      "dtultimaelab": "11/30/2015",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615174g1297",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15174",
+      "denomconc": "pinter s.r.l.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "20",
+      "descazione": "in corso",
+      "dttrasmissione": "03/23/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/09/2016",
+      
+      "codmotivazione": "40620",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g3266",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "1",
+      "codpiatt": "5",
+      "codgioco": "4444",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31459",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515007g3207",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15007",
+      "denomconc": "betflag s.p.a.",
+      "tipogioco": "3",
+      "codpiatt": "122",
+      "codgioco": "9312",
+      "descazione": "in corso",
+      "dttrasmissione": "09/02/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "114335",
+      "dtultimaelab": "11/30/2015",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g3276",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "3",
+      "codpiatt": "5",
+      "codgioco": "6868",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31466",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515007p4780",
+      "destipoistanza": "adesione piatt.",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15007",
+      "denomconc": "betflag s.p.a.",
+      "tipogioco": "0",
+      "codpiatt": "122",
+      "codgioco": "0",
+      "descazione": "in corso",
+      "dttrasmissione": "12/01/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "z",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "115509",
+      "dtultimaelab": "12/02/2015",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615023j2234",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15023",
+      "denomconc": "reel italy ltd.",
+      "tipogioco": "2",
+      "codpiatt": "1",
+      "codgioco": "10157",
+      "descazione": "scartare",
+      "dttrasmissione": "04/26/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41810",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014j2171",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "10205",
+      "descazione": "scartare",
+      "dttrasmissione": "04/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/25/2016",
+      
+      "codmotivazione": "40652",
+      "dtultimaelab": "04/25/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1415077g5989",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "124",
+      "codgioco": "9550",
+      "descazione": "scartare",
+      "dttrasmissione": "12/31/2014",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44979",
+      "dtultimaelab": "05/10/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615077g0438",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "7635",
+      "descazione": "scartare",
+      "dttrasmissione": "02/05/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44976",
+      "dtultimaelab": "05/09/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615023j2236",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15023",
+      "denomconc": "reel italy ltd.",
+      "tipogioco": "2",
+      "codpiatt": "1",
+      "codgioco": "10158",
+      "descazione": "scartare",
+      "dttrasmissione": "04/26/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41814",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615023j2238",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15023",
+      "denomconc": "reel italy ltd.",
+      "tipogioco": "2",
+      "codpiatt": "1",
+      "codgioco": "10147",
+      "descazione": "scartare",
+      "dttrasmissione": "04/26/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41818",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615016j2349",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15016",
+      "denomconc": "eurobet italia srl",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "1945",
+      "descazione": "scartare",
+      "dttrasmissione": "04/28/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41867",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2385",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "4",
+      "codpiatt": "9",
+      "codgioco": "10557",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43359",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2400",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10967",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43557",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2401",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10968",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43563",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2403",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11465",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43568",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615023j2230",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15023",
+      "denomconc": "reel italy ltd.",
+      "tipogioco": "2",
+      "codpiatt": "1",
+      "codgioco": "10155",
+      "descazione": "scartare",
+      "dttrasmissione": "04/26/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41803",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2405",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11466",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43582",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615023j2231",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15023",
+      "denomconc": "reel italy ltd.",
+      "tipogioco": "2",
+      "codpiatt": "1",
+      "codgioco": "10156",
+      "descazione": "scartare",
+      "dttrasmissione": "04/26/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41806",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615023j2240",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15023",
+      "denomconc": "reel italy ltd.",
+      "tipogioco": "2",
+      "codpiatt": "1",
+      "codgioco": "10150",
+      "descazione": "scartare",
+      "dttrasmissione": "04/26/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41821",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515228g5063",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15228",
+      "denomconc": "unibet (italia) ltd",
+      "tipogioco": "2",
+      "codpiatt": "67",
+      "codgioco": "11542",
+      "descazione": "scartare",
+      "dttrasmissione": "12/17/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/05/2016",
+      
+      "codmotivazione": "43696",
+      "dtultimaelab": "05/05/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615016j2351",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15016",
+      "denomconc": "eurobet italia srl",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "1959",
+      "descazione": "scartare",
+      "dttrasmissione": "04/28/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41870",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615016j2352",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15016",
+      "denomconc": "eurobet italia srl",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "1961",
+      "descazione": "scartare",
+      "dttrasmissione": "04/28/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41871",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615221g2414",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15221",
+      "denomconc": "hbg on line gaming s.r.l",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11467",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43427",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615221g2413",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15221",
+      "denomconc": "hbg on line gaming s.r.l",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11466",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43425",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2391",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10955",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43458",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2393",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10957",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43487",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2396",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10961",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43544",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2407",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11468",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43573",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615016j2350",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15016",
+      "denomconc": "eurobet italia srl",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "1956",
+      "descazione": "scartare",
+      "dttrasmissione": "04/28/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41869",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2389",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10953",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43376",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2392",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10956",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43465",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615221g2416",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15221",
+      "denomconc": "hbg on line gaming s.r.l",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11469",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/03/2016",
+      
+      "codmotivazione": "43153",
+      "dtultimaelab": "05/03/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615023j2232",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15023",
+      "denomconc": "reel italy ltd.",
+      "tipogioco": "2",
+      "codpiatt": "1",
+      "codgioco": "10146",
+      "descazione": "scartare",
+      "dttrasmissione": "04/26/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41808",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615023j2239",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15023",
+      "denomconc": "reel italy ltd.",
+      "tipogioco": "2",
+      "codpiatt": "1",
+      "codgioco": "10145",
+      "descazione": "scartare",
+      "dttrasmissione": "04/26/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41820",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2398",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10963",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43554",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2399",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10965",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43555",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2388",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10560",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43374",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2397",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10962",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43552",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615023j2235",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15023",
+      "denomconc": "reel italy ltd.",
+      "tipogioco": "2",
+      "codpiatt": "1",
+      "codgioco": "10149",
+      "descazione": "scartare",
+      "dttrasmissione": "04/26/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41813",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615221g2415",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15221",
+      "denomconc": "hbg on line gaming s.r.l",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11468",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43428",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2387",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10559",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43368",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2390",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10954",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43453",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615023j2237",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15023",
+      "denomconc": "reel italy ltd.",
+      "tipogioco": "2",
+      "codpiatt": "1",
+      "codgioco": "10151",
+      "descazione": "scartare",
+      "dttrasmissione": "04/26/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41816",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615023j2241",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15023",
+      "denomconc": "reel italy ltd.",
+      "tipogioco": "2",
+      "codpiatt": "1",
+      "codgioco": "10163",
+      "descazione": "scartare",
+      "dttrasmissione": "04/26/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41823",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2395",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10959",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43531",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2386",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10558",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43362",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2406",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11467",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43591",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615221g2411",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15221",
+      "denomconc": "hbg on line gaming s.r.l",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11465",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43421",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615112g0013",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11587",
+      "descazione": "scartare",
+      "dttrasmissione": "01/04/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41868",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014j2168",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "8263",
+      "descazione": "scartare",
+      "dttrasmissione": "04/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/25/2016",
+      
+      "codmotivazione": "40650",
+      "dtultimaelab": "04/25/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014j2174",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "8261",
+      "descazione": "scartare",
+      "dttrasmissione": "04/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/25/2016",
+      
+      "codmotivazione": "40653",
+      "dtultimaelab": "04/25/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2394",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10958",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43489",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615219g2402",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15219",
+      "denomconc": "bingobet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "10969",
+      "descazione": "scartare",
+      "dttrasmissione": "05/03/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43566",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515026g3261",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "1",
+      "codpiatt": "5",
+      "codgioco": "1351",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31453",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g3264",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "1",
+      "codpiatt": "5",
+      "codgioco": "1352",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31454",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g3279",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "3",
+      "codpiatt": "5",
+      "codgioco": "6861",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31463",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g3265",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "1",
+      "codpiatt": "5",
+      "codgioco": "5407",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31461",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g3268",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "1",
+      "codpiatt": "5",
+      "codgioco": "1350",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31449",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g3272",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "1",
+      "codpiatt": "5",
+      "codgioco": "1346",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31442",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515007g3206",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15007",
+      "denomconc": "betflag s.p.a.",
+      "tipogioco": "1",
+      "codpiatt": "122",
+      "codgioco": "9347",
+      "descazione": "in corso",
+      "dttrasmissione": "09/02/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "114339",
+      "dtultimaelab": "11/30/2015",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515007g3205",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15007",
+      "denomconc": "betflag s.p.a.",
+      "tipogioco": "1",
+      "codpiatt": "122",
+      "codgioco": "9311",
+      "descazione": "in corso",
+      "dttrasmissione": "09/02/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "114330",
+      "dtultimaelab": "11/30/2015",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615026g0981",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "1",
+      "codpiatt": "5",
+      "codgioco": "11322",
+      "descazione": "in corso",
+      "dttrasmissione": "02/29/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31468",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515007g3208",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15007",
+      "denomconc": "betflag s.p.a.",
+      "tipogioco": "3",
+      "codpiatt": "122",
+      "codgioco": "9314",
+      "descazione": "in corso",
+      "dttrasmissione": "09/02/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "114357",
+      "dtultimaelab": "11/30/2015",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515026g3271",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15026",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "1",
+      "codpiatt": "5",
+      "codgioco": "1349",
+      "descazione": "in corso",
+      "dttrasmissione": "09/10/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "31445",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615028x1441",
+      "destipoistanza": "modifica utilizzo della piattaforma",
+      "desstatoistanza": "acquisizione documentazione verifica",
+      "codconc": "15028",
+      "denomconc": "bwin italia srl",
+      "tipogioco": "0",
+      "codpiatt": "5",
+      "codgioco": "0",
+      "descazione": "in corso",
+      "dttrasmissione": "03/30/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "x",
+      "statusistanza": "n",
+      "dtultimoagg": "9",
+      "dtprotnsd": "03/30/2016",
+      
+      "codmotivazione": "31479",
+      "dtultimaelab": "03/30/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615112j1969",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "acquisizione documentazione verifica",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "8363",
+      "descazione": "in corso",
+      "dttrasmissione": "04/18/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "9",
+      "dtprotnsd": "04/18/2016",
+      
+      "codmotivazione": "37953",
+      "dtultimaelab": "04/18/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615112j1914",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "acquisizione documentazione verifica",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "4468",
+      "descazione": "in corso",
+      "dttrasmissione": "04/15/2016",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "9",
+      "dtprotnsd": "04/18/2016",
+      
+      "codmotivazione": "37947",
+      "dtultimaelab": "04/18/2016",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515075x3002",
+      "destipoistanza": "modifica utilizzo della piattaforma",
+      "desstatoistanza": "acquisizione documentazione verifica",
+      "codconc": "15075",
+      "denomconc": "hit d.d. nova gorica s.p.a.",
+      "tipogioco": "0",
+      "codpiatt": "99",
+      "codgioco": "0",
+      "descazione": "in corso",
+      "dttrasmissione": "08/08/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "x",
+      "statusistanza": "n",
+      "dtultimoagg": "9",
+      "dtprotnsd": "08/13/2015",
+      
+      "codmotivazione": "79544",
+      "dtultimaelab": "08/11/2015",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1515007g3209",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "convocazione verifica consegnata",
+      "codconc": "15007",
+      "denomconc": "betflag s.p.a.",
+      "tipogioco": "3",
+      "codpiatt": "122",
+      "codgioco": "9349",
+      "descazione": "in corso",
+      "dttrasmissione": "09/02/2015",
+      
+      "tipoistanza": "3",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "8",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "114343",
+      "dtultimaelab": "11/30/2015",
+      
+      "tipoelabdati": "3",
+      "descelabdati": "collaudo in corso"
+    },
+    {
+      "idprotaams": "a1615236j1681",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15236",
+      "denomconc": "power leisure bookmakers limited",
+      "tipogioco": "4",
+      "codpiatt": "98",
+      "codgioco": "5610",
+      "descazione": "scartare",
+      "dttrasmissione": "04/12/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/12/2016",
+      
+      "codmotivazione": "36369",
+      "dtultimaelab": "04/12/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2021",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "9387",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "39982",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2026",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "104",
+      "codgioco": "7922",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "40020",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515115g2854",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15115",
+      "denomconc": "intralot italia s.p.a.",
+      "tipogioco": "4",
+      "codpiatt": "106",
+      "codgioco": "6934",
+      "descazione": "collaudare",
+      "dttrasmissione": "07/27/2015",
+      
+      "tipoistanza": "1",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "03/07/2016",
+      
+      "codmotivazione": "23295",
+      "dtultimaelab": "03/07/2016",
+      
+      "tipoelabdati": "2",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615232g1658",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15232",
+      "denomconc": "e-play 24 ita limited",
+      "tipogioco": "2",
+      "codpiatt": "144",
+      "codgioco": "11833",
+      "descazione": "collaudare",
+      "dttrasmissione": "04/12/2016",
+      
+      "tipoistanza": "1",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/18/2016",
+      
+      "codmotivazione": "38001",
+      "dtultimaelab": "04/18/2016",
+      
+      "tipoelabdati": "2",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615228g0538",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15228",
+      "denomconc": "unibet (italia) ltd",
+      "tipogioco": "2",
+      "codpiatt": "67",
+      "codgioco": "11796",
+      "descazione": "scartare",
+      "dttrasmissione": "02/15/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/05/2016",
+      
+      "codmotivazione": "43704",
+      "dtultimaelab": "05/05/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615112g0015",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11589",
+      "descazione": "scartare",
+      "dttrasmissione": "01/04/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/29/2016",
+      
+      "codmotivazione": "41956",
+      "dtultimaelab": "04/29/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2329",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "5790",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41328",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2339",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "6",
+      "codgioco": "11610",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41330",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2032",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "5765",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "40002",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615215j2043",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15215",
+      "denomconc": "snai s.p.a.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "10900",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/03/2016",
+      
+      "codmotivazione": "43129",
+      "dtultimaelab": "05/03/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515228g0136",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15228",
+      "denomconc": "unibet (italia) ltd",
+      "tipogioco": "2",
+      "codpiatt": "67",
+      "codgioco": "9623",
+      "descazione": "scartare",
+      "dttrasmissione": "01/21/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/23/2016",
+      
+      "codmotivazione": "40635",
+      "dtultimaelab": "04/23/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2345",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "97",
+      "codgioco": "12518",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43236",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615078g2047",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15078",
+      "denomconc": "lottomatica scommesse s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "5",
+      "codgioco": "10107",
+      "descazione": "scartare",
+      "dttrasmissione": "04/22/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/22/2016",
+      
+      "codmotivazione": "40491",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615078g2050",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15078",
+      "denomconc": "lottomatica scommesse s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "5",
+      "codgioco": "10108",
+      "descazione": "scartare",
+      "dttrasmissione": "04/22/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/22/2016",
+      
+      "codmotivazione": "40495",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2029",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "104",
+      "codgioco": "8722",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "40028",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515077g4160",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "4",
+      "codpiatt": "124",
+      "codgioco": "11231",
+      "descazione": "scartare",
+      "dttrasmissione": "10/16/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44971",
+      "dtultimaelab": "05/09/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2023",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "9386",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "39995",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515112g4882",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11470",
+      "descazione": "scartare",
+      "dttrasmissione": "12/04/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41605",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515228g0135",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15228",
+      "denomconc": "unibet (italia) ltd",
+      "tipogioco": "2",
+      "codpiatt": "67",
+      "codgioco": "9622",
+      "descazione": "scartare",
+      "dttrasmissione": "01/21/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/23/2016",
+      
+      "codmotivazione": "40634",
+      "dtultimaelab": "04/23/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515253g4436",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15253",
+      "denomconc": "hillside ( shared services ) limited",
+      "tipogioco": "2",
+      "codpiatt": "108",
+      "codgioco": "11320",
+      "descazione": "scartare",
+      "dttrasmissione": "11/06/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/11/2016",
+      
+      "codmotivazione": "35871",
+      "dtultimaelab": "04/11/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615228g0223",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15228",
+      "denomconc": "unibet (italia) ltd",
+      "tipogioco": "2",
+      "codpiatt": "67",
+      "codgioco": "11728",
+      "descazione": "scartare",
+      "dttrasmissione": "01/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/05/2016",
+      
+      "codmotivazione": "43698",
+      "dtultimaelab": "05/05/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515125g5133",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15125",
+      "denomconc": "scommettendo s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "58",
+      "codgioco": "11573",
+      "descazione": "scartare",
+      "dttrasmissione": "12/31/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "03/05/2016",
+      
+      "codmotivazione": "22889",
+      "dtultimaelab": "03/05/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014g0049",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "11600",
+      "descazione": "scartare",
+      "dttrasmissione": "01/08/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/24/2016",
+      
+      "codmotivazione": "40637",
+      "dtultimaelab": "04/24/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014g0043",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "11601",
+      "descazione": "scartare",
+      "dttrasmissione": "01/08/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/24/2016",
+      
+      "codmotivazione": "40638",
+      "dtultimaelab": "04/24/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014g0048",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "11606",
+      "descazione": "scartare",
+      "dttrasmissione": "01/08/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/24/2016",
+      
+      "codmotivazione": "40643",
+      "dtultimaelab": "04/24/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014j0263",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "8403",
+      "descazione": "scartare",
+      "dttrasmissione": "01/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "01/27/2016",
+      
+      "codmotivazione": "7633",
+      "dtultimaelab": "01/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615077g0317",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "8227",
+      "descazione": "scartare",
+      "dttrasmissione": "01/29/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44973",
+      "dtultimaelab": "05/09/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615077g0324",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "7630",
+      "descazione": "scartare",
+      "dttrasmissione": "01/29/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44980",
+      "dtultimaelab": "05/10/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615232g1950",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15232",
+      "denomconc": "e-play 24 ita limited",
+      "tipogioco": "1",
+      "codpiatt": "2",
+      "codgioco": "9933",
+      "descazione": "scartare",
+      "dttrasmissione": "04/18/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/18/2016",
+      
+      "codmotivazione": "37824",
+      "dtultimaelab": "04/18/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515239g0361",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15239",
+      "denomconc": "fenplay limited",
+      "tipogioco": "2",
+      "codpiatt": "105",
+      "codgioco": "9794",
+      "descazione": "scartare",
+      "dttrasmissione": "02/11/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "06/08/2015",
+      
+      "codmotivazione": "59465",
+      "dtultimaelab": "06/08/2015",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615077g0316",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "5934",
+      "descazione": "scartare",
+      "dttrasmissione": "01/29/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44972",
+      "dtultimaelab": "05/09/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2028",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "104",
+      "codgioco": "7920",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "40024",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014g0045",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "11603",
+      "descazione": "scartare",
+      "dttrasmissione": "01/08/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/24/2016",
+      
+      "codmotivazione": "40640",
+      "dtultimaelab": "04/24/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515158g1263",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15158",
+      "denomconc": "bet for bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "7807",
+      "descazione": "scartare",
+      "dttrasmissione": "03/24/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "09/22/2015",
+      
+      "codmotivazione": "51424",
+      "dtultimaelab": "05/12/2015",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2331",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "10625",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41331",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2332",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "7578",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41334",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2333",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "7582",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41332",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2334",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "7584",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41333",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515239g0359",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15239",
+      "denomconc": "fenplay limited",
+      "tipogioco": "2",
+      "codpiatt": "105",
+      "codgioco": "9792",
+      "descazione": "scartare",
+      "dttrasmissione": "02/11/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "06/08/2015",
+      
+      "codmotivazione": "59457",
+      "dtultimaelab": "06/08/2015",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615228g1009",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15228",
+      "denomconc": "unibet (italia) ltd",
+      "tipogioco": "2",
+      "codpiatt": "67",
+      "codgioco": "12061",
+      "descazione": "scartare",
+      "dttrasmissione": "02/29/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/05/2016",
+      
+      "codmotivazione": "43706",
+      "dtultimaelab": "05/05/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515237g2116",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15237",
+      "denomconc": "baldo line srl",
+      "tipogioco": "2",
+      "codpiatt": "133",
+      "codgioco": "10556",
+      "descazione": "collaudare",
+      "dttrasmissione": "06/03/2015",
+      
+      "tipoistanza": "1",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "06/17/2015",
+      
+      "codmotivazione": "62981",
+      "dtultimaelab": "06/17/2015",
+      
+      "tipoelabdati": "2",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515009g4864",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15009",
+      "denomconc": "mansion (malta) limited",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "10993",
+      "descazione": "scartare",
+      "dttrasmissione": "12/03/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "12/03/2015",
+      
+      "codmotivazione": "115745",
+      "dtultimaelab": "12/03/2015",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2019",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "8351",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "40007",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615077g0325",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "7636",
+      "descazione": "scartare",
+      "dttrasmissione": "01/29/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44974",
+      "dtultimaelab": "05/09/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615112g0009",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11583",
+      "descazione": "scartare",
+      "dttrasmissione": "01/04/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41843",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615112g0014",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11588",
+      "descazione": "scartare",
+      "dttrasmissione": "01/04/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41873",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2025",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "104",
+      "codgioco": "10630",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "40016",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615077g0318",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "5937",
+      "descazione": "scartare",
+      "dttrasmissione": "01/29/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44975",
+      "dtultimaelab": "05/09/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2033",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "4",
+      "codpiatt": "104",
+      "codgioco": "7098",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "40032",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2016",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "8353",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "39976",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615112g0016",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11590",
+      "descazione": "scartare",
+      "dttrasmissione": "01/04/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/29/2016",
+      
+      "codmotivazione": "41980",
+      "dtultimaelab": "04/29/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515112g4884",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11472",
+      "descazione": "scartare",
+      "dttrasmissione": "12/04/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41629",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014j2163",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "8260",
+      "descazione": "scartare",
+      "dttrasmissione": "04/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/25/2016",
+      
+      "codmotivazione": "40647",
+      "dtultimaelab": "04/25/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014j2164",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "8267",
+      "descazione": "scartare",
+      "dttrasmissione": "04/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/25/2016",
+      
+      "codmotivazione": "40648",
+      "dtultimaelab": "04/25/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014j2165",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "10206",
+      "descazione": "scartare",
+      "dttrasmissione": "04/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/25/2016",
+      
+      "codmotivazione": "40649",
+      "dtultimaelab": "04/25/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1415077g6013",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "124",
+      "codgioco": "9574",
+      "descazione": "scartare",
+      "dttrasmissione": "12/31/2014",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44978",
+      "dtultimaelab": "05/09/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615112g0011",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11585",
+      "descazione": "scartare",
+      "dttrasmissione": "01/04/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41862",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014g0046",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "11604",
+      "descazione": "scartare",
+      "dttrasmissione": "01/08/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/24/2016",
+      
+      "codmotivazione": "40641",
+      "dtultimaelab": "04/24/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515239g1073",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15239",
+      "denomconc": "fenplay limited",
+      "tipogioco": "4",
+      "codpiatt": "105",
+      "codgioco": "10054",
+      "descazione": "scartare",
+      "dttrasmissione": "03/17/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "06/08/2015",
+      
+      "codmotivazione": "59467",
+      "dtultimaelab": "06/08/2015",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615077g0439",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "8229",
+      "descazione": "scartare",
+      "dttrasmissione": "02/05/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44981",
+      "dtultimaelab": "05/10/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515112g4883",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11471",
+      "descazione": "scartare",
+      "dttrasmissione": "12/04/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41601",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615112g0010",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11584",
+      "descazione": "scartare",
+      "dttrasmissione": "01/04/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41849",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615112g0012",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15112",
+      "denomconc": "people''s srl",
+      "tipogioco": "2",
+      "codpiatt": "9",
+      "codgioco": "11586",
+      "descazione": "scartare",
+      "dttrasmissione": "01/04/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/28/2016",
+      
+      "codmotivazione": "41864",
+      "dtultimaelab": "04/28/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014g0044",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "11602",
+      "descazione": "scartare",
+      "dttrasmissione": "01/08/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/24/2016",
+      
+      "codmotivazione": "40639",
+      "dtultimaelab": "04/24/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2020",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "8352",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "39962",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615228g0222",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15228",
+      "denomconc": "unibet (italia) ltd",
+      "tipogioco": "2",
+      "codpiatt": "67",
+      "codgioco": "11727",
+      "descazione": "scartare",
+      "dttrasmissione": "01/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/05/2016",
+      
+      "codmotivazione": "43697",
+      "dtultimaelab": "05/05/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515009g4863",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15009",
+      "denomconc": "mansion (malta) limited",
+      "tipogioco": "2",
+      "codpiatt": "11",
+      "codgioco": "10991",
+      "descazione": "scartare",
+      "dttrasmissione": "12/03/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "12/03/2015",
+      
+      "codmotivazione": "115740",
+      "dtultimaelab": "12/03/2015",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1415077g6025",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "124",
+      "codgioco": "9586",
+      "descazione": "scartare",
+      "dttrasmissione": "12/31/2014",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44977",
+      "dtultimaelab": "05/09/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2031",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "5766",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "40004",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1415077g5977",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15077",
+      "denomconc": "rcs gaming s.r.l.",
+      "tipogioco": "4",
+      "codpiatt": "124",
+      "codgioco": "9538",
+      "descazione": "scartare",
+      "dttrasmissione": "12/30/2014",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/10/2016",
+      
+      "codmotivazione": "44970",
+      "dtultimaelab": "05/09/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2343",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "9387",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41326",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1415236g3681",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15236",
+      "denomconc": "power leisure bookmakers limited",
+      "tipogioco": "2",
+      "codpiatt": "98",
+      "codgioco": "8942",
+      "descazione": "scartare",
+      "dttrasmissione": "08/25/2014",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "39618",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2017",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "7577",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "39969",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2022",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "9057",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "39987",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014j2159",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "8262",
+      "descazione": "scartare",
+      "dttrasmissione": "04/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/25/2016",
+      
+      "codmotivazione": "40644",
+      "dtultimaelab": "04/25/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014j2160",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "8266",
+      "descazione": "scartare",
+      "dttrasmissione": "04/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/25/2016",
+      
+      "codmotivazione": "40645",
+      "dtultimaelab": "04/25/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014j2161",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "8271",
+      "descazione": "scartare",
+      "dttrasmissione": "04/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/25/2016",
+      
+      "codmotivazione": "40651",
+      "dtultimaelab": "04/25/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014j2162",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "8264",
+      "descazione": "scartare",
+      "dttrasmissione": "04/25/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/25/2016",
+      
+      "codmotivazione": "40646",
+      "dtultimaelab": "04/25/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615078g2051",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15078",
+      "denomconc": "lottomatica scommesse s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "5",
+      "codgioco": "11296",
+      "descazione": "scartare",
+      "dttrasmissione": "04/22/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/22/2016",
+      
+      "codmotivazione": "40508",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2336",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "6",
+      "codgioco": "11607",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41335",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2338",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "6",
+      "codgioco": "11609",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41314",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615125g0437",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15125",
+      "denomconc": "scommettendo s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "58",
+      "codgioco": "11574",
+      "descazione": "scartare",
+      "dttrasmissione": "02/04/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "03/05/2016",
+      
+      "codmotivazione": "22888",
+      "dtultimaelab": "03/05/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515239g1072",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15239",
+      "denomconc": "fenplay limited",
+      "tipogioco": "2",
+      "codpiatt": "105",
+      "codgioco": "10053",
+      "descazione": "scartare",
+      "dttrasmissione": "03/17/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "06/08/2015",
+      
+      "codmotivazione": "59470",
+      "dtultimaelab": "06/08/2015",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515223p3590",
+      "destipoistanza": "adesione piatt.",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15223",
+      "denomconc": "societa'' italiana betting srl",
+      "tipogioco": "0",
+      "codpiatt": "9",
+      "codgioco": "0",
+      "descazione": "scartare",
+      "dttrasmissione": "09/28/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "z",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/08/2016",
+      
+      "codmotivazione": "35108",
+      "dtultimaelab": "04/08/2016",
+      
+      "tipoelabdati": "5",
+      "descelabdati": "fsc non risulta modificato"
+    },
+    {
+      "idprotaams": "a1515239g0360",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15239",
+      "denomconc": "fenplay limited",
+      "tipogioco": "2",
+      "codpiatt": "105",
+      "codgioco": "9793",
+      "descazione": "scartare",
+      "dttrasmissione": "02/11/2015",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "06/08/2015",
+      
+      "codmotivazione": "59463",
+      "dtultimaelab": "06/08/2015",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615014g0047",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15014",
+      "denomconc": "virtual marketing services italia ltd",
+      "tipogioco": "2",
+      "codpiatt": "16",
+      "codgioco": "11605",
+      "descazione": "scartare",
+      "dttrasmissione": "01/08/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/24/2016",
+      
+      "codmotivazione": "40642",
+      "dtultimaelab": "04/24/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615039g0060",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15039",
+      "denomconc": "best in game s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "6",
+      "codgioco": "11617",
+      "descazione": "scartare",
+      "dttrasmissione": "01/08/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/06/2016",
+      
+      "codmotivazione": "33742",
+      "dtultimaelab": "04/06/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2328",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "6",
+      "codgioco": "11613",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41306",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2330",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "7577",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41324",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2344",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "8351",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41320",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2337",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "6",
+      "codgioco": "11608",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41317",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2340",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "6",
+      "codgioco": "11611",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41315",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615096g1553",
+      "destipoistanza": "gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15096",
+      "denomconc": "admiral interactive srl",
+      "tipogioco": "2",
+      "codpiatt": "50",
+      "codgioco": "12379",
+      "descazione": "scartare",
+      "dttrasmissione": "04/07/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "g",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/04/2016",
+      
+      "codmotivazione": "43553",
+      "dtultimaelab": "05/04/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1515017m4079",
+      "destipoistanza": "modifica piatt.",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15017",
+      "denomconc": "lottomatica scommesse s.r.l.",
+      "tipogioco": "0",
+      "codpiatt": "5",
+      "codgioco": "0",
+      "descazione": "collaudare",
+      "dttrasmissione": "10/09/2015",
+      
+      "tipoistanza": "1",
+      "tiporichiesta": "m",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "11/03/2015",
+      
+      "codmotivazione": "105211",
+      "dtultimaelab": "11/03/2015",
+      
+      "tipoelabdati": "6",
+      "descelabdati": "fsc risulta modificato"
+    },
+    {
+      "idprotaams": "a1615215j2044",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15215",
+      "denomconc": "snai s.p.a.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "10901",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/03/2016",
+      
+      "codmotivazione": "43130",
+      "dtultimaelab": "05/03/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2030",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "4",
+      "codpiatt": "104",
+      "codgioco": "7106",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "40030",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615078g2049",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15078",
+      "denomconc": "lottomatica scommesse s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "5",
+      "codgioco": "11515",
+      "descazione": "scartare",
+      "dttrasmissione": "04/22/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/22/2016",
+      
+      "codmotivazione": "40510",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615200g2024",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15200",
+      "denomconc": "poker & bet s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "104",
+      "codgioco": "10629",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/21/2016",
+      
+      "codmotivazione": "40014",
+      "dtultimaelab": "04/21/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2335",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "99",
+      "codgioco": "9386",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41319",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615099g2341",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15099",
+      "denomconc": "merkur interactive italia s.p.a.",
+      "tipogioco": "2",
+      "codpiatt": "6",
+      "codgioco": "11612",
+      "descazione": "scartare",
+      "dttrasmissione": "04/27/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/27/2016",
+      
+      "codmotivazione": "41323",
+      "dtultimaelab": "04/27/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615215j2042",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15215",
+      "denomconc": "snai s.p.a.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "10899",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/03/2016",
+      
+      "codmotivazione": "43125",
+      "dtultimaelab": "05/03/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615215j2045",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15215",
+      "denomconc": "snai s.p.a.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "10902",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/03/2016",
+      
+      "codmotivazione": "43137",
+      "dtultimaelab": "05/03/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615215j2046",
+      "destipoistanza": "integrazione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15215",
+      "denomconc": "snai s.p.a.",
+      "tipogioco": "1",
+      "codpiatt": "4",
+      "codgioco": "10903",
+      "descazione": "scartare",
+      "dttrasmissione": "04/21/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "j",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "05/03/2016",
+      
+      "codmotivazione": "43139",
+      "dtultimaelab": "05/03/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    },
+    {
+      "idprotaams": "a1615078g2048",
+      "destipoistanza": "adesione gioco",
+      "desstatoistanza": "istanza protocollata e accettata",
+      "codconc": "15078",
+      "denomconc": "lottomatica scommesse s.r.l.",
+      "tipogioco": "2",
+      "codpiatt": "5",
+      "codgioco": "11516",
+      "descazione": "scartare",
+      "dttrasmissione": "04/22/2016",
+      
+      "tipoistanza": "2",
+      "tiporichiesta": "k",
+      "statusistanza": "n",
+      "dtultimoagg": "2",
+      "dtprotnsd": "04/22/2016",
+      
+      "codmotivazione": "40500",
+      "dtultimaelab": "04/22/2016",
+      
+      "tipoelabdati": "1",
+      "descelabdati": "piattaforma"
+    }
+  ]
+}

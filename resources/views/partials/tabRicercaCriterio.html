@@ -1,0 +1,74 @@
+	<div class="panel-body">
+
+		<form name="formCriterio" class="form-horizontal" ng-submit="getElencoCriteri(formCriterio)" novalidate>
+		
+			<div class="alert alert-danger" ng-show="formCriterio.$invalid && formCriterio.$submitted">
+				<p ng-show="formCriterio.descCriterio.$invalid">Campo "Descrizione criterio" obbligatorio</p>
+				<p ng-show="formCriterio.presenzaAllegati.$invalid">Campo "Presenza allegati per il criterio" obbligatorio</p>
+				<p ng-show="formCriterio.gestioneSoci.$invalid">Campo "Gestione soci" obbligatorio</p>
+				<p ng-show="formCriterio.criterioRiservato.$invalid">Campo "Criterio riservato" obbligatorio</p>
+				<p ng-show="formCriterio.tipoModelloDic.$invalid">Campo "Tipo modello dichiarazione di riferimento" obbligatorio</p>
+				<p ng-show="formCriterio.settoriImpositivi.$invalid">Campo "Settori impositivi" obbligatorio</p>
+				<p ng-show="formCriterio.tipoImpCrit.$invalid">Campo "Tipo importo del criterio" obbligatorio</p>
+				<p ng-show="formCriterio.numDestStim.$invalid">Campo "Numero destinatari stimato" deve essere numerico</p>
+			</div>
+		
+			<div style="float:right"><span>Numero risultati: {{formContent.numRisultati}}</span></div>
+				
+			<div class="form-group" ng-class="{'has-error' : formCriterio.$submitted && formCriterio.gestioneSoci.$invalid}">
+				 <label for="gestioneSoci" class="col-sm-2 control-label">Tipo Istanza</label>
+				 <div class="col-sm-2">
+      				<select class="form-control" name="tipoIstanza" id="tipoIstanza" ng-model="formContent.codTipoIstanza" 
+      					ng-options="item.tipoistanza as (item.destipoistanza | capitalize) for item in listaCombo | unique: 'destipoistanza' | orderBy: 'destipoistanza'" >
+      				</select>
+    			 </div>
+			</div>
+			
+			
+			
+			<div class="form-group" ng-class="{'has-error' : formCriterio.$submitted && formCriterio.criterioRiservato.$invalid}">
+				 <label for="criterioRiservato" class="col-sm-2 control-label">Stato Istanza</label>
+				 <div class="col-sm-2">
+				 	<select class="form-control" name="criterioRiservato" id="criterioRiservato" ng-model="formContent.codStatoIstanza" 
+				 			ng-options="item.desstatoistanza as (item.desstatoistanza | capitalize) for item in listaCombo |  unique: 'desstatoistanza' | orderBy: 'desstatoistanza'">
+      				</select>
+    			 </div>
+			</div>			
+						
+			<div class="form-group" ng-class="{'has-error' : formCriterio.$submitted && formCriterio.presenzaAllegati.$invalid}">
+				 <label for="presenzaAllegati" class="col-sm-2 control-label">Concessionario</label>
+				 <div class="col-sm-9">
+      				<select class="form-control" name="presenzaAllegati" id="presenzaAllegati" ng-model="formContent.codConcessione" 
+      						ng-options="item.codconc as (item.denomconc | capitalize) for item in listaCombo | filter: formContent.codTipoIstanza  | filter: formContent.codStatoIstanza | unique: 'denomconc' " multiple="true">     				
+      				</select>
+    			 </div>
+			</div>
+			
+			<div class="form-group" >
+					<label for="dataEvento" class="col-sm-2 control-label">Dal </label>
+					<div class="col-sm-2">
+						<input type="text" class="text form-control" name="dataDal" uib-datepicker-popup="{{format}}"
+							data-ng-model="formContent.dataDal" is-open="popupDal.opened" datepicker-options="dateOptions" close-text="Close" alt-input-formats="altInputFormats"/>
+					</div>
+					<div class="col-sm-1">
+						<button type="button" class="btn  btn-default" ng-click="open1()"><i class="glyphicon glyphicon-calendar"></i></button>
+					</div>
+			</div>
+			
+			<div class="form-group">
+					<label for="dataEvento" class="col-sm-2 control-label">Al </label>
+					<div class="col-sm-2">
+						<input type="text" class="text form-control" name="dataAl" uib-datepicker-popup="{{format}}"
+							data-ng-model="formContent.dataAl" is-open="popupAl.opened" datepicker-options="dateOptions" close-text="Close" alt-input-formats="altInputFormats"/>
+					</div>
+					<div class="col-sm-1">
+						<button type="button" class="btn btn-default" ng-click="open2()"><i class="glyphicon glyphicon-calendar"></i></button>
+					</div>
+			</div>
+			
+			<button type="submit" class="btn btn-primary center-block">Ricerca</button>			
+		</form>
+		
+	</div>
+
+

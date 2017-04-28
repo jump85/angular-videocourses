@@ -1,0 +1,89 @@
+<div class="eq_blockTitle4">
+	{{titolo}}
+</div>
+
+<div class="eq_contentBlock2">
+
+	<div class="title">
+		
+	</div>
+	
+	<div class="content">
+		<form class="form-horizontal" name="formTipoCategoria" data-ng-submit="cerca(formTipoCategoria)" novalidate>
+  			<div class="form-group" data-ng-class="{'has-error' : formTipoCategoria.$submitted && formTipoCategoria.categoria.$invalid}">
+  				<div class="col-sm-12">
+					<label for="categoria" class="control-label">Categoria</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="categoria" data-ng-model="formContent.categoria" data-ng-pattern="'[A-Z,a-z,0-9]*'"/>
+				</div>
+			</div>
+  			<div class="form-group" data-ng-class="{'has-error' : formTipoCategoria.$submitted && formTipoCategoria.macroarea.$invalid}">
+  				<div class="col-sm-12">
+					<label for="macroarea" class="control-label">Macroarea</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="macroarea" data-ng-model="formContent.macroarea" data-ng-pattern="'[A-Z,a-z,0-9]*'"/>
+				</div>
+			</div>
+  			<div class="form-group" data-ng-class="{'has-error' : formTipoCategoria.$submitted && formTipoCategoria.microarea.$invalid}">
+  				<div class="col-sm-12">
+					<label for="microarea" class="control-label">Microarea</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="microarea" data-ng-model="formContent.microarea" data-ng-pattern="'[A-Z,a-z,0-9]*'"/>
+				</div>
+			</div>
+			<div class="form-group">
+  				<div class="col-sm-12">
+					<label class="control-label">Attivo</label>
+				</div>
+				<div class="col-sm-2">
+					<select class="text form-control" ng-model="formContent.attivo">
+						<option value=""></option>
+						<option value="1">SI</option>
+						<option value="0">NO</option>
+					</select>
+				</div>
+			</div>
+			<div class="form-group">
+				<button type="submit" class="btn btn-primary pull-right">Cerca</button>
+			</div>
+	</div>
+
+	<div ng-if="!isLoading">
+		<div class="title">
+			Elenco Tipo Categoria
+		</div>
+
+		<table class="tabella" st-table="rowsTipoCategoria">
+			<thead>
+				<tr>
+					<th>Categoria</th>
+					<th>Macroarea</th>
+					<th>Microarea</th>
+					<th>Descrizione</th>
+					<th>Attivo</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr data-ng-repeat="row in rowsTipoCategoria" data-ng-class-odd="'r-odd'" data-ng-class-even="'r-even'">
+					<td>{{row.categoria}}</td>
+					<td>{{row.macroarea}}</td>
+					<td>{{row.microarea}}</td>
+					<td>{{row.descrizione}}</td>
+					<td>{{row.attivo | flag}}</td>
+				</tr>
+			</tbody>
+
+			<tfoot>
+				<tr>
+					<td class="footer" colspan="5">Categorie presenti {{numTipoCategoria}}</td>
+				</tr>
+				<tr>
+					<td class="text-center" st-pagination="" st-items-by-page="rowsPerPage" colspan="5"></td> 
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+</div>

@@ -1,0 +1,11 @@
+<div class="panel panel-default" ng-init="changeTab('views/partials/tabRicercaCriterio.html', 1)">
+
+	<div class="panel-heading">
+		<ul class="nav nav-pills">
+  			<li role="presentation" ng-class="tabActive == 1 ? 'active':''" ng-click="changeTab('views/partials/tabRicercaCriterio.html', 1)"><a href="{{CONSTANTS.ELENCO_CRITERI_PAGE}}">Ricerca</a></li>
+  			<li role="presentation" ng-class="(tabActive == 2 ? 'active':'') + (flagTab ? '':'disabled')" ng-click="changeTab('views/partials/tabElencoCriteri.html', 2)"><a href="{{CONSTANTS.ELENCO_CRITERI_PAGE}}">Elenco Istanze</a></li>
+		</ul>
+	</div>
+	<div ng-include="tabContent"></div>
+
+</div>

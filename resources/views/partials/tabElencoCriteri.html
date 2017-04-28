@@ -1,0 +1,75 @@
+<div ng-include="'views/includes/dettaglioModal.html'"></div>
+<div class="panel panel-default">
+	<div class="panel-heading">
+		<h3 class="panel-title">Elenco istanze disponibili</h3>
+	</div>
+	
+	<div class="panel-body">
+		<div class="form-group" data-ng-if="!isLoading">
+			<label class="col-sm-12 center-block" data-ng-if="numCriteri != null && numCriteri != 0">Totale istanze: {{numCriteri}}</label>
+			<label class="col-sm-12 center-block" data-ng-if="numCriteri != null && numCriteri == 0">Nessun risultato</label>		
+		</div>
+		
+		<form novalidate>
+			<table class="table" st-table="rowsIstanze" data-ng-if="!isLoading" data-ng-show="numCriteri && numCriteri != 0">
+				<thead>
+					<tr>
+						<th st-sort="denomconc" >Descrizione</th>
+						<th st-sort="denomconc" >Stato Istanza</th>
+						<th st-sort="denomconc" >Tipo Istanza</th>
+						<th></th>
+					</tr>
+					<tr>
+						<th>
+							Filtra per descrizione: <input st-search="denomconc" placeholder="" class="input-sm form-control" type="search"/>
+						</th>
+						<th></th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr data-ng-repeat="row in rowsIstanze">
+						<td>{{row.denomconc | capitalize}}</td>
+						<td>{{row.desstatoistanza | capitalize}}</td>
+						<td>{{row.destipoistanza | capitalize}}</td>
+						<td>
+							<div class="btn-group btn-group-xs text-center" role="group" data-ng-if="!ospite && row.codStatoComunicazione != 0">
+								<button type="button" name="modIdCriterio" class="btn btn-default" data-ng-click="dettaglioCriterio(row)">Dettaglio</button>
+								<button type="button" name="modIdCriterio" class="btn btn-default" data-ng-click="modificaCriterio('formCriterio.html',row.codTipoCriterio)">Modifica</button>
+								<button type="button" name="delIdCriterio" class="btn btn-default" data-ng-click="eliminaCriterio(row.codTipoCriterio)" data-ng-if="row.criterioCancellabile">Elimina</button>
+							</div>
+						</td>
+					</tr>
+				</tbody>
+				<tfoot>
+					<tr>
+						<td class="text-center" st-pagination="" st-items-by-page="rowsPerPage" colspan="5"></td>
+					</tr>
+				</tfoot>
+			</table>
+		</form>
+	</div>
+	
+	<div class="modal fade" id="eliminaModal" tabindex="-1" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal"
+						aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title">Conferma eliminazione</h4>
+				</div>
+				<div class="modal-body">
+					<p>Attenzione! Si &egrave; sicuri di voler eliminare il criterio selezionato? </p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Annulla</button>
+					<button type="button" class="btn btn-primary" data-ng-click="eliminaConferma()">Conferma</button>
+				</div>
+			</div>
+			<!-- /.modal-content -->
+		</div>
+		<!-- /.modal-dialog -->
+	</div>
+	<!-- /.modal -->
+</div>

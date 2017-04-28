@@ -1,0 +1,55 @@
+
+<nav class="navbar navbar-default navbar-custom" role="navigation">
+	<div class="navbar-header">
+		<button type="button" class="navbar-toggle" data-toggle="collapse"
+			data-target="#nav-toggle">
+			<span class="icon-bar"></span> <span class="icon-bar"></span> <span
+				class="icon-bar"></span>
+		</button>
+		<a class="navbar-brand" href="#"
+			alt="Selezione Destinatari per Adempimento Spontaneo"
+			title="Selezione Destinatari per Adempimento Spontaneo">{{titolo}}</a>
+	</div>
+
+	<div class="collapse navbar-collapse" id="nav-toggle">
+		<!-- sezione menu -->
+		<ul class="nav navbar-nav">
+			<li data-ng-repeat="item in listaMenu" data-ng-if="!item.dropdown" data-ng-class="item.class">
+				<a href="{{item.link}}" data-ng-click="pushStackElement(item.link , item.desc, true)">{{item.desc}} </a>
+			</li>
+
+			<li data-ng-repeat="item in listaMenu" data-ng-if="item.dropdown"class="dropdown">
+				<a href="#" class="dropdown-toggle"
+				data-toggle="dropdown" role="button" aria-haspopup="true"
+				aria-expanded="false">{{item.desc}} <span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li data-ng-repeat="itemdr in item.dropdown">
+						<a href="{{itemdr.link}}" data-ng-click="pushStackElement(itemdr.link , itemdr.desc, true)">{{itemdr.desc}}</a>
+					</li>
+<!-- 					<li role="separator" class="divider"></li> -->
+				</ul></li>
+		</ul>
+
+		<!-- sezione informazioni utente -->
+		<ul class="nav navbar-nav navbar-right">
+			<li class="dropdown" title="Info utente"><a href="#"
+				class="dropdown-toggle" role="button" id="infoUtente"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+					<span class="glyphicon glyphicon-user blueText"></span>
+			</a>
+				<ul class="dropdown-menu" aria-labelledby="infoUtente">
+					<li><a href="#">{{utente.denominazione}}</a></li>
+					<li role="separator" class="divider"></li>
+					<li><a href="#">{{utente.codUfficio}}
+							{{utente.descUfficio}}</a></li>
+				</ul></li>
+			<li title="Logout"><a href="#" class="dropdown-toggle"
+				role="button" id="infoUtente" aria-haspopup="true"
+				aria-expanded="true"> <span
+					class="glyphicon glyphicon-off redText" ng-click="logout()"></span>
+			</a></li>
+		</ul>
+
+
+	</div>
+</nav>

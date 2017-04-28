@@ -1,0 +1,62 @@
+
+	<div class="modal fade" id="dettaglioModal" tabindex="-1" role="dialog">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title">Dettaglio istanza</h4>
+				</div>
+				<div class="modal-body">
+				<div class="form-horizontal">
+					<div class="row redText">
+						<label class="col-sm-4">Identificativo istanza</label>
+						<label class="col-sm-4">{{row.idprotaams | uppercase}}</label>
+    			 	</div>
+    			 	<hr/>
+					<div class="row">
+				 		<label class="col-sm-4">Concessione</label>
+						<label class="col-sm-6">{{row.codconc}} - {{row.denomconc}}</label>
+    			 	</div>
+    			 	<div class="row">
+				 		<label class="col-sm-4">Data trasmissione</label>
+						<label class="col-sm-6">{{row.dttrasmissione}}</label>
+    			 	</div>
+    			 	<div class="row">
+				 		<label class="col-sm-4">Gioco</label>
+						<label class="col-sm-6">{{row.dttrasmissione}}</label>
+					</div>
+					<div class="row">
+				 		<label class="col-sm-4">Tipo gioco</label>
+						<label class="col-sm-6">{{row.tipogioco | tipogiocodecode}}</label>
+					</div>
+					<div class="row">
+				 		<label class="col-sm-4">Tipo istanza</label>
+						<label class="col-sm-6">{{row.destipoistanza}}</label>
+					</div>
+					<div class="row">
+				 		<label class="col-sm-4">Stato istanza</label>
+						<label class="col-sm-6">{{row.desstatoistanza}}</label>
+					</div>
+					<div class="row">
+						<div class="col-sm-9">&nbsp;</div>
+						<div class="form-group">
+							<div class="btn-group-vertical btn-group-sm col-sm-2" role="group">
+								<button type="button" class="btn btn-danger" data-dismiss="modal"
+										ng-disabled="row.descazione != 'scartare'">Scartare</button>
+								<button type="button" class="btn btn-success" data-dismiss="modal" 
+										ng-disabled="row.descazione != 'collaudare'">Collaudare</button>
+								<label data ng-show="row.descazione == 'in corso'">Collaudo in corso</label>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				</div>
+			</div>
+			<!-- /.modal-content -->
+		</div>
+		<!-- /.modal-dialog -->
+	</div>
+	<!-- /.modal -->

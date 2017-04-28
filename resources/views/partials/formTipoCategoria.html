@@ -1,0 +1,53 @@
+<div class="eq_blockTitle4">
+	{{titolo}}
+</div>
+<div class="eq_contentBlock1">
+	N.B.: i campi con * sono obbligatori
+</div>
+
+<div class="eq_contentBlock2">
+
+	<div class="title">
+		
+	</div>
+	
+	<div class="content">
+		<form class="form-horizontal" name="formTipoCategoria" data-ng-submit="salva(formTipoCategoria)" novalidate>
+  			<div class="form-group" data-ng-class="{'has-error' : formTipoCategoria.$submitted && formTipoCategoria.categoria.$invalid}">
+  				<div class="col-sm-12">
+					<label for="categoria" class="control-label">Categoria *</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="categoria" data-ng-model="formContent.categoria" data-ng-required="true" data-ng-pattern="'[A-Z,a-z,0-9]*'"/>
+				</div>
+			</div>
+  			<div class="form-group" data-ng-class="{'has-error' : formTipoCategoria.$submitted && formTipoCategoria.macroarea.$invalid}">
+  				<div class="col-sm-12">
+					<label for="macroarea" class="control-label">Macroarea</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="macroarea" data-ng-model="formContent.macroarea" data-ng-pattern="'[A-Z,a-z,0-9]*'"/>
+				</div>
+			</div>
+  			<div class="form-group" data-ng-class="{'has-error' : formTipoCategoria.$submitted && formTipoCategoria.microarea.$invalid}">
+  				<div class="col-sm-12">
+					<label for="microarea" class="control-label">Microarea</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="microarea" data-ng-model="formContent.microarea" data-ng-pattern="'[A-Z,a-z,0-9]*'"/>
+				</div>
+			</div>
+  			<div class="form-group" data-ng-class="{'has-error' : formTipoCategoria.$submitted && formTipoCategoria.descrizione.$invalid}">
+  				<div class="col-sm-12">
+					<label for="descrizione" class="control-label">Descrizione *</label>
+				</div>
+				<div class="col-sm-8">
+					<input type="text" class="text form-control" name="descrizione" data-ng-model="formContent.descrizione" data-ng-required="true" data-ng-pattern="'[A-Z,a-z,0-9]*'"/>
+				</div>
+			</div>
+		
+			<div class="form-group">
+				<button type="submit" class="btn btn-primary pull-right">Salva</button>
+			</div>
+	</div>
+</div>

@@ -1,0 +1,36 @@
+html,
+body {
+	min-height: 100%;
+}
+body {
+	background: linear-gradient(#666, #888, #666);
+	background-color: #777;
+}
+.page-header {
+	border-bottom-color: #9d9d9d;
+	color: #fff;
+	font-variant: small-caps;
+}
+.page-footer {
+	border-top: 1px solid #9d9d9d;
+	color: #fff;
+	padding-top: 10px;
+}
+#login-form {
+	background-color: #fff;
+    border-radius: 40px;
+	box-shadow: 0 5px 50px #555;
+    margin: 15% auto;
+    max-width: 360px;
+    padding: 30px 40px;
+}
+h1 .fa {
+	color: #9d9d9d;
+}
+.alert {
+	margin-top: 20px;
+    padding: 10px 15px;
+}
+#message {
+	display: none;
+}

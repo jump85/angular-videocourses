@@ -1,0 +1,14 @@
+[
+{"codInvio": "1", "codTipoCriterio": "1", "descCriterio": "descrizione1", "codStatoComunicazione": "codStato1", "criterioCancellabile": false},
+{"codInvio": "2", "codTipoCriterio": "2", "descCriterio": "descrizione2", "codStatoComunicazione": "codStato2", "criterioCancellabile": true},
+{"codInvio": "3", "codTipoCriterio": "3", "descCriterio": "descrizione3", "codStatoComunicazione": "codStato3", "criterioCancellabile": false},
+{"codInvio": "1", "codTipoCriterio": "1", "descCriterio": "descrizione1", "codStatoComunicazione": "codStato1", "criterioCancellabile": false},
+{"codInvio": "2", "codTipoCriterio": "2", "descCriterio": "descrizione2", "codStatoComunicazione": "codStato2", "criterioCancellabile": true},
+{"codInvio": "3", "codTipoCriterio": "3", "descCriterio": "descrizione3", "codStatoComunicazione": "codStato3", "criterioCancellabile": false},
+{"codInvio": "1", "codTipoCriterio": "1", "descCriterio": "descrizione1", "codStatoComunicazione": "codStato1", "criterioCancellabile": false},
+{"codInvio": "2", "codTipoCriterio": "2", "descCriterio": "descrizione2", "codStatoComunicazione": "codStato2", "criterioCancellabile": true},
+{"codInvio": "3", "codTipoCriterio": "3", "descCriterio": "descrizione3", "codStatoComunicazione": "codStato3", "criterioCancellabile": false},
+{"codInvio": "1", "codTipoCriterio": "1", "descCriterio": "descrizione1", "codStatoComunicazione": "codStato1", "criterioCancellabile": false},
+{"codInvio": "2", "codTipoCriterio": "2", "descCriterio": "descrizione2", "codStatoComunicazione": "codStato2", "criterioCancellabile": true},
+{"codInvio": "3", "codTipoCriterio": "3", "descCriterio": "descrizione3", "codStatoComunicazione": "codStato3", "criterioCancellabile": false}
+]

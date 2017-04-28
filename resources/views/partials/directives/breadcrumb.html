@@ -1,0 +1,12 @@
+<ol class="breadcrumb">    
+	<li data-ng-if="listaBreadCrumb.length">
+		<a href="#/" data-ng-click="pushStackElement('', '', true)" >Home</a>
+	</li>
+	<li data-ng-if="!listaBreadCrumb.length" class="active">
+		Home
+	</li>
+	<li data-ng-repeat="item in listaBreadCrumb" data-ng-click="pushStackElement(item.link, item.desc, true)" data-ng-class="$last ? 'active':''">
+		<a href="{{item.link}}" data-ng-if="!$last">{{item.desc}}</a>
+		<div data-ng-if="$last" style="display: inline;">{{item.desc}}</div>
+	</li>
+</ol>

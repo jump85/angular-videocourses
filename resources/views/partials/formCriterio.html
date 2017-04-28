@@ -1,0 +1,116 @@
+
+<div ng-include="'views/includes/dettaglioModal.html'"></div>
+<div ng-include="'views/includes/inserimentoModal.html'"></div>
+
+<div class="panel panel-default">
+	<div class="panel-heading">
+		<h3 class="panel-title" ng-if="idSelected == null">Inserimento nuova Istanza</h3>
+		<h3 class="panel-title" ng-if="idSelected != null">Modifica istanza</h3>
+	</div>
+	<div class="panel-body">
+		<form name="formIstanza" class="form-horizontal" ng-submit="submit('index', formIstanza.$valid)" novalidate>
+		
+			<div class="alert alert-danger" ng-show="formIstanza.$invalid && formIstanza.$submitted">
+				<p ng-show="formIstanza.codTipoIstanza.$invalid">Campo "Tipo Istanza" obbligatorio</p>
+				<p ng-show="formIstanza.codStatoIstanza.$invalid">Campo "Stato Istanza" obbligatorio</p>
+				<p ng-show="formIstanza.codConcessione.$invalid">Campo "Concessionario" obbligatorio</p>
+				<p ng-show="formIstanza.dataDal.$invalid">Campo "Data" obbligatorio o formattato male (dd/mm/yyyy)</p>
+			</div>
+			
+			<div class="form-group" ng-class="{'has-error' : formIstanza.$submitted && formIstanza.codTipoIstanza.$invalid}">
+				 <label for="gestioneSoci" class="col-sm-2 control-label">Tipo Istanza</label>
+				 <div class="col-sm-2">
+      				<select class="form-control" name="codTipoIstanza" id="codTipoIstanza" ng-model="formContent.codTipoIstanza" ng-required="true"
+      					ng-options="item.tipoistanza as (item.destipoistanza | capitalize) for item in listaCombo | unique: 'destipoistanza'" >
+      				</select>
+    			 </div>
+			</div>
+			
+	
+			
+			<div class="form-group" ng-class="{'has-error' : formIstanza.$submitted && formIstanza.codStatoIstanza.$invalid}">
+				 <label for="criterioRiservato" class="col-sm-2 control-label">Stato Istanza</label>
+				 <div class="col-sm-2">
+				 	<select class="form-control" name="codStatoIstanza" id="codStatoIstanza" ng-model="formContent.codStatoIstanza" ng-required="true"		 			
+				 			ng-options="item.desstatoistanza as (item.desstatoistanza | capitalize) for item in listaCombo |  unique: 'desstatoistanza'">
+      				</select>
+    			 </div>
+			</div>			
+						
+			<div class="form-group" ng-class="{'has-error' : formIstanza.$submitted && formIstanza.codConcessione.$invalid}">
+				 <label for="concessionario" class="col-sm-2 control-label">Concessionario</label>
+				 <div class="col-sm-9">
+      				<select class="form-control" name="codConcessione" id="codConcessione" ng-model="formContent.codConcessione" ng-required="true"
+				 			
+      						ng-options="item.codconc as (item.denomconc | capitalize) for item in listaCombo |  unique: 'denomconc' ">      				</select>
+    			 </div>
+			</div>
+			
+			<div class="form-group" data-ng-class="{'has-error' : formIstanza.$submitted && formIstanza.dataDal.$invalid}">
+					<label for="dataEvento" class="col-sm-2 control-label">Data</label>
+					<div class="col-sm-2">
+						<input type="text" class="text form-control" name="dataDal" uib-datepicker-popup="{{format}}" ng-required="true"
+							data-ng-model="formContent.dataDal" is-open="popupDal.opened" datepicker-options="dateOptions" close-text="Close" alt-input-formats="altInputFormats"/>
+					</div>
+					<div class="col-sm-1">
+						<button type="button" class="btn  btn-default" ng-click="open1()"><i class="glyphicon glyphicon-calendar"></i></button>
+					</div>
+			</div>
+
+  			<div class="form-group">
+			<label for="dataEvento" class="col-sm-2 control-label">Documenti</label>
+			<div id="uploader">
+                <div class="col-sm-9">
+
+                    <div class="well">
+                        <div class="form-group">
+                        	<div class="col-sm-9">
+                            	<input type="file" id="file1" class="text form-control" multiple/>
+                            </div>
+
+                        </div>
+                        <div ng-repeat="file in files" style="margin-top: 20px;border-bottom-color: antiquewhite;border-bottom-style: double;">
+                            <div><span>{{file.name}}</span><div style="float:right;"><span>{{file.humanSize}}</span>
+                            <button class="btn btn-default" ng-click="btnRemove(file)">Rimuovi<i class="icon-remove"></i></button></div>
+                            </div>
+                            <progress style="width:400px;" value="{{file.loaded}}" max="{{file.size}}"></progress>
+                        </div>
+                    </div>
+                </div>
+		</div>
+		
+        </div>
+        			
+			<input type="submit" class="btn btn-primary center-block" ng-if="idSelected == null" value="Inserisci"/>
+			<input type="submit" class="btn btn-primary center-block" ng-if="idSelected != null" value="Modifica"/>
+			
+		</form>
+		
+	</div>
+
+
+	<div class="modal fade" id="confermaModal" tabindex="-1" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal"
+						aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title">Conferma inserimento</h4>
+				</div>
+				<div class="modal-body">
+					<p>Attenzione! Sta per essere acquisito un INVIO per l' anno d' imposta {{formContent.annoImposta}} con i criteri {{formContent.criteri}}. </p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Annulla</button>
+					<button type="button" class="btn btn-primary" ng-click="submitConferma()">Conferma</button>
+				</div>
+			</div>
+			<!-- /.modal-content -->
+		</div>
+		<!-- /.modal-dialog -->
+	</div>
+	<!-- /.modal -->
+
+</div>
